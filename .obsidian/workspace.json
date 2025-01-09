@@ -11,10 +11,14 @@
             "id": "0d764bf3f29f7f34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Core/Chapter 1 ~ The Spool/Thread.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Thread"
             }
           }
         ]
@@ -159,6 +163,8 @@
   },
   "active": "0d764bf3f29f7f34",
   "lastOpenFiles": [
+    "sortspec.md",
+    "README.md",
     "ThreadTTRPG/sortspec.md",
     "ThreadTTRPG/README.md",
     "ThreadTTRPG",
@@ -171,7 +177,6 @@
     "Core/Chapter 2 ~ Windings/Aspects.md",
     "Core/Chapter 2 ~ Windings/Points.md",
     "Core/Chapter 3 ~ The Loom/B.md",
-    "sortspec.md",
     "Core/Chapter 1 ~ The Spool/TTRPGs.md",
     "Core/Chapter 3 ~ The Loom/States",
     "Core/Chapter 1 ~ The Spool/Chance.md",

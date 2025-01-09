@@ -1,0 +1,11 @@
+- [ ] Play Styles guides
+- [ ] Make SVG logos and art
+- [ ] Crafting Mechanics
+- [ ] Combine social and physical combat in to one system
+- [ ] HP and Stamina use 2 different stats for balance 
+      (Stamina = Mind + Spirit) (HP = Body + Luck)
+- [ ] Make Rules Cards and Measuring templates
+- [ ] All Paths are scaling Paths / Paths tracks.
+- [ ] Rename perks to Paths
+- [ ] Everything, including aspects, costs 1 point
+- [ ] Resting for all rules

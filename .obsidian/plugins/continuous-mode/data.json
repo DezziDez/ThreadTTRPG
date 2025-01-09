@@ -1,0 +1,12 @@
+{
+  "includedFileTypes": [
+    "markdown",
+    "images"
+  ],
+  "extraFileTypes": [],
+  "excludedNames": [],
+  "tabGroupIds": [],
+  "disableScrollRootItemsIntoView": false,
+  "excludeEmbeddedFiles": true,
+  "defaultSortOrder": "alphabetical"
+}

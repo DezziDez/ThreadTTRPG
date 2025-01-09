@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "c4f8934923be8f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2dde43ea3ee4bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d764bf3f29f7f34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4109e3e329e1f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "80dc561c2b8d375a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c9460064a8d019",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "694422a8938e857d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "ba5d2a732a632a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91d309530a8b662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62813851569847b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core/Chapter 1 ~ The Spool/1 Table Top Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1 Table Top Basics"
+            }
+          },
+          {
+            "id": "0ebe61e8edd4aa38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ca665fb62e074f99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "423485a629ec4987",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core/Chapter 1 ~ The Spool/3 Chance.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3 Chance"
+            }
+          },
+          {
+            "id": "74886e19589ec41a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0d764bf3f29f7f34",
+  "lastOpenFiles": [
+    "ThreadTTRPG/sortspec.md",
+    "ThreadTTRPG/README.md",
+    "ThreadTTRPG",
+    "Core/Chapter 3 ~ The Loom/States/Over the Edge.md",
+    "Core/Chapter 2 ~ Windings/Damage.md",
+    "Core/Chapter 3 ~ The Loom/States/Unconscious.md",
+    "Core/Chapter 2 ~ Windings/Stamina.md",
+    "Core/Chapter 2 ~ Windings/Health.md",
+    "Core/Chapter 3 ~ The Loom/State.md",
+    "Core/Chapter 2 ~ Windings/Aspects.md",
+    "Core/Chapter 2 ~ Windings/Points.md",
+    "Core/Chapter 3 ~ The Loom/B.md",
+    "sortspec.md",
+    "Core/Chapter 1 ~ The Spool/TTRPGs.md",
+    "Core/Chapter 3 ~ The Loom/States",
+    "Core/Chapter 1 ~ The Spool/Chance.md",
+    "Core/Chapter 2 ~ Windings/Disposition.md",
+    "Core/Chapter 1 ~ The Spool/Thread.md",
+    "Core/Chapter 2 ~ Windings/Deck.md",
+    "Core/Chapter 3 ~ The Loom",
+    "Notes.md",
+    "Events.md",
+    "The Weaver.md",
+    "The Players.md",
+    "Core/Chapter 1 ~ The Spool/2 Test2.md",
+    "Core/Chapter 1 ~ The Spool/1 Test.md",
+    "Core/Chapter 2 ~ Windings",
+    "Core/Chapter 1 ~ The Spool",
+    "Thread ~ Spool/Untitled.md",
+    "Core",
+    "Welcome.md"
+  ]
+}

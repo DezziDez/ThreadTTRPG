@@ -11,14 +11,14 @@
             "id": "0d764bf3f29f7f34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Core/Chapter 1 ~ The Spool/Thread.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/novel-word-count/data.json",
+                "bFile": ".obsidian/plugins/novel-word-count/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Thread"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -163,6 +163,7 @@
   },
   "active": "0d764bf3f29f7f34",
   "lastOpenFiles": [
+    "Core/Chapter 1 ~ The Spool/Thread.md",
     "sortspec.md",
     "README.md",
     "ThreadTTRPG/sortspec.md",
@@ -181,7 +182,6 @@
     "Core/Chapter 3 ~ The Loom/States",
     "Core/Chapter 1 ~ The Spool/Chance.md",
     "Core/Chapter 2 ~ Windings/Disposition.md",
-    "Core/Chapter 1 ~ The Spool/Thread.md",
     "Core/Chapter 2 ~ Windings/Deck.md",
     "Core/Chapter 3 ~ The Loom",
     "Notes.md",

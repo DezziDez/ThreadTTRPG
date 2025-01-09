@@ -76,6 +76,31 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 61,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 457,
+      "nonWhitespaceCharacterCount": 345,
+      "readingTimeInMinutes": 0.23018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736384865547,
+      "modifiedDate": 1736382619991,
+      "sizeInBytes": 457,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.20333333333333334,
+        "wordCount": 61,
+        "characterCount": 457,
+        "nonWhitespaceCharacterCount": 345
+      }
+    },
     "sortspec.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -95,10 +120,10 @@
       "sizeInBytes": 135,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 19,
-        "nonWhitespaceCharacterCount": 11
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
         "sorting-spec": "target-folder: /\n> a-z\ntarget-folder: /Core/*\n< a-z by-metadata: Page\n/folders\n/:files\n"
@@ -123,35 +148,10 @@
       "sizeInBytes": 18,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 13,
-        "nonWhitespaceCharacterCount": 12
-      }
-    },
-    "Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 61,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.20333333333333334,
-      "characterCount": 457,
-      "nonWhitespaceCharacterCount": 345,
-      "readingTimeInMinutes": 0.23018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736384865547,
-      "modifiedDate": 1736382619991,
-      "sizeInBytes": 457,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.20333333333333334,
-        "wordCount": 61,
-        "characterCount": 457,
-        "nonWhitespaceCharacterCount": 345
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 18,
+        "nonWhitespaceCharacterCount": 16
       }
     },
     "LICENSE": {
@@ -179,29 +179,79 @@
         "nonWhitespaceCharacterCount": 13131
       }
     },
-    "Core/Chapter 1 ~ The Spool/TTRPGs.md": {
+    "Core/Chapter 3 ~ The Loom/States/Over the Edge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 339,
+      "wordCount": 23,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.13,
-      "characterCount": 2074,
-      "nonWhitespaceCharacterCount": 1685,
-      "readingTimeInMinutes": 1.2792452830188679,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 113,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736384865516,
+      "modifiedDate": 1736382776415,
+      "sizeInBytes": 144,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 141,
+        "nonWhitespaceCharacterCount": 113
+      }
+    },
+    "Core/Chapter 3 ~ The Loom/States/Unconscious.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 333,
+      "nonWhitespaceCharacterCount": 268,
+      "readingTimeInMinutes": 0.17735849056603772,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1736384865468,
-      "modifiedDate": 1736382619976,
-      "sizeInBytes": 2074,
+      "createdDate": 1736384865531,
+      "modifiedDate": 1736382619991,
+      "sizeInBytes": 338,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.13,
-        "wordCount": 339,
-        "characterCount": 2074,
-        "nonWhitespaceCharacterCount": 1685
+        "pageCount": 0.15666666666666668,
+        "wordCount": 47,
+        "characterCount": 333,
+        "nonWhitespaceCharacterCount": 268
+      }
+    },
+    "Core/Chapter 3 ~ The Loom/State.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 230,
+      "nonWhitespaceCharacterCount": 193,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736384865516,
+      "modifiedDate": 1736382619991,
+      "sizeInBytes": 231,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 230,
+        "nonWhitespaceCharacterCount": 193
       }
     },
     "Core/Chapter 1 ~ The Spool/Thread.md": {
@@ -212,24 +262,52 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.7133333333333334,
-      "characterCount": 1294,
-      "nonWhitespaceCharacterCount": 1055,
+      "characterCount": 1276,
+      "nonWhitespaceCharacterCount": 1052,
       "readingTimeInMinutes": 0.8075471698113208,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1736384865453,
-      "modifiedDate": 1736382619976,
-      "sizeInBytes": 1315,
+      "modifiedDate": 1736453834994,
+      "sizeInBytes": 1297,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7133333333333334,
         "wordCount": 214,
-        "characterCount": 1294,
-        "nonWhitespaceCharacterCount": 1055
+        "characterCount": 1291,
+        "nonWhitespaceCharacterCount": 1052
       },
       "frontmatter": {
         "Page": 1
+      }
+    },
+    "Core/Chapter 1 ~ The Spool/TTRPGs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 337,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1233333333333333,
+      "characterCount": 2052,
+      "nonWhitespaceCharacterCount": 1670,
+      "readingTimeInMinutes": 1.271698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736384865468,
+      "modifiedDate": 1736382619976,
+      "sizeInBytes": 2074,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1233333333333333,
+        "wordCount": 337,
+        "characterCount": 2052,
+        "nonWhitespaceCharacterCount": 1670
+      },
+      "frontmatter": {
+        "Page": 2
       }
     },
     "Core/Chapter 1 ~ The Spool/Chance.md": {
@@ -316,34 +394,6 @@
         "Page": 4
       }
     },
-    "Core/Chapter 2 ~ Windings/Health.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 111,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37,
-      "characterCount": 755,
-      "nonWhitespaceCharacterCount": 623,
-      "readingTimeInMinutes": 0.4188679245283019,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736384865486,
-      "modifiedDate": 1736382619991,
-      "sizeInBytes": 783,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.37,
-        "wordCount": 111,
-        "characterCount": 755,
-        "nonWhitespaceCharacterCount": 623
-      },
-      "frontmatter": {
-        "Page": 5
-      }
-    },
     "Core/Chapter 2 ~ Windings/Disposition.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -372,32 +422,32 @@
         "Page": 1
       }
     },
-    "Core/Chapter 2 ~ Windings/Deck.md": {
+    "Core/Chapter 2 ~ Windings/Health.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 180,
+      "wordCount": 111,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6,
-      "characterCount": 1077,
-      "nonWhitespaceCharacterCount": 874,
-      "readingTimeInMinutes": 0.6792452830188679,
-      "linkCount": 3,
+      "pageCount": 0.37,
+      "characterCount": 755,
+      "nonWhitespaceCharacterCount": 623,
+      "readingTimeInMinutes": 0.4188679245283019,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1736384865486,
-      "modifiedDate": 1736382619976,
-      "sizeInBytes": 1100,
+      "modifiedDate": 1736382619991,
+      "sizeInBytes": 783,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.6,
-        "wordCount": 180,
-        "characterCount": 1077,
-        "nonWhitespaceCharacterCount": 874
+        "pageCount": 0.37,
+        "wordCount": 111,
+        "characterCount": 755,
+        "nonWhitespaceCharacterCount": 623
       },
       "frontmatter": {
-        "Page": 2
+        "Page": 5
       }
     },
     "Core/Chapter 2 ~ Windings/Damage.md": {
@@ -453,79 +503,32 @@
         "Page": 3
       }
     },
-    "Core/Chapter 3 ~ The Loom/States/Unconscious.md": {
+    "Core/Chapter 2 ~ Windings/Deck.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 47,
+      "wordCount": 180,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15666666666666668,
-      "characterCount": 333,
-      "nonWhitespaceCharacterCount": 268,
-      "readingTimeInMinutes": 0.17735849056603772,
-      "linkCount": 0,
+      "pageCount": 0.6,
+      "characterCount": 1077,
+      "nonWhitespaceCharacterCount": 874,
+      "readingTimeInMinutes": 0.6792452830188679,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1736384865531,
-      "modifiedDate": 1736382619991,
-      "sizeInBytes": 338,
+      "createdDate": 1736384865486,
+      "modifiedDate": 1736382619976,
+      "sizeInBytes": 1100,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.15666666666666668,
-        "wordCount": 47,
-        "characterCount": 333,
-        "nonWhitespaceCharacterCount": 268
-      }
-    },
-    "Core/Chapter 3 ~ The Loom/States/Over the Edge.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 141,
-      "nonWhitespaceCharacterCount": 113,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736384865516,
-      "modifiedDate": 1736382776415,
-      "sizeInBytes": 144,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 141,
-        "nonWhitespaceCharacterCount": 113
-      }
-    },
-    "Core/Chapter 3 ~ The Loom/State.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 230,
-      "nonWhitespaceCharacterCount": 193,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736384865516,
-      "modifiedDate": 1736382619991,
-      "sizeInBytes": 231,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.1,
-        "wordCount": 30,
-        "characterCount": 230,
-        "nonWhitespaceCharacterCount": 193
+        "pageCount": 0.6,
+        "wordCount": 180,
+        "characterCount": 1077,
+        "nonWhitespaceCharacterCount": 874
+      },
+      "frontmatter": {
+        "Page": 2
       }
     }
   }

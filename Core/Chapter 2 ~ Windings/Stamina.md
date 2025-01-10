@@ -7,7 +7,7 @@ Page: 6
 # Never Give Up
 Stamina is a resource that represents a [[TTRPGs#Characters|Character's]] Will and Endurance.
 
-A Character's Maximum Stamina value is calculated by adding the [[Points]] of the Character's [[Aspects#♦ Mind|Mind]] and [[Aspects#♠ Spirit|Spirit]] [[Aspects]].
+A Character's Maximum Stamina value is calculated by adding the [[Point|Points]] of the Character's [[Aspect#♦ Mind|Mind]] and [[Aspect#♠ Spirit|Spirit]] [[Aspect|Aspects]].
 >[!Example]
 >If a Character has 4 Points in Mind and 2 Points in Spirit. Then the Character has a maximum Stamina of 6. (4+2 = 6)
 # Out of Steam

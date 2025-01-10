@@ -5,9 +5,9 @@ Page: 4
 # */ pɔɪnt /*
 ***Noun*** ~ A mark or unit of scoring
 # What's the Point?
-Points are a representation of power, development, and skill for all [[TTRPGs#Characters|Characters]]. They are primarily spent on Aspects and Paths. The value of Aspects and Paths generally do not exceed 10.
+Points are a representation of power, development, and skill for all [[TTRPGs#Characters|Characters]]. They are primarily spent on [[Aspect|Aspects]] and Paths. The value of Aspects and Paths generally do not exceed 10.
 # Experience
-Each Point is made up of 10 Experience. Characters gain Experience by moving the [[TTRPGs#Story|Story]] forward, participating in large Events, from Training, or showing up to the session, being especially creative, or anything that [[TTRPGs#The Weaver|The Weaver]] sees as beneficial to the game and deserves rewarding.
+Each Point is made up of 10 Experience. Characters gain Experience by moving the [[TTRPGs#Story|Story]] forward, participating in large Events, from Training, showing up to the session, being especially creative, or anything that [[TTRPGs#The Weaver|The Weaver]] sees as beneficial to the game and deserves rewarding.
 
 Generally, at least 1 Experience should be awarded to each Character at the end of each session.
 # Unspent Points

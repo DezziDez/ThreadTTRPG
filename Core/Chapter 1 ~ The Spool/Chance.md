@@ -5,10 +5,10 @@ Page: 3
 # */ tʃæns /*
 ***Noun*** ~ A possibility of something happening
 # What are the odds?
-Every TTRPG has some form of decision-making ability. This is usually performed with some kind of randomness generator. In Thread, this is done by giving each player and the Weaver a [standard 52-card deck](https://en.wikipedia.org/wiki/Standard_52-card_deck) with the addition of 2 different Jokers, often two different colors such as black and red.
+Every TTRPG has some form of decision-making ability, which is usually performed with some kind of randomness generator. In Thread, this is done by giving each [[TTRPGs#Players|Player]] and [[TTRPGs#The Weaver|The Weaver]] a [standard 52-card deck](https://en.wikipedia.org/wiki/Standard_52-card_deck) with the addition of two different Jokers.
 ## Jokers
-In each deck of cards, there will always be 2 jokers that represent extreme outcomes. The owner of each deck should preemptively assign the good (+🃏) and bad (-🃏) joker in their deck.
-Whenever a Joker is drawn, it <b><u>must</u></b> be used, unless otherwise stated.
+In each deck of cards, there will always be two jokers that represent extreme outcomes. The owner of each deck should assign the good (+🃏) and bad (-🃏) joker in their deck ahead of time.
+Whenever a Joker is drawn, it <b><u>must</u></b> be used, unless otherwise noted.
 # Values
 The values of each card are as follows:
 

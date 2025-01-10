@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Chapter 2 ~ Windings/Deck.md",
+                "file": "Core/Chapter 3 ~ The Loom/Damage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deck"
+              "title": "Damage"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Chapter 1 ~ The Spool/1 Table Top Basics.md",
+                "file": "Core/Chapter 3 ~ The Loom/Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1 Table Top Basics"
+              "title": "Backlinks for Damage"
             }
           },
           {
@@ -102,11 +102,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core/Chapter 3 ~ The Loom/Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Damage"
             }
           },
           {
@@ -161,19 +162,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d764bf3f29f7f34",
+  "active": "74886e19589ec41a",
   "lastOpenFiles": [
-    "Core/Chapter 2 ~ Windings/Points.md",
-    "Core/Chapter 2 ~ Windings/Aspects.md",
-    "Core/Chapter 2 ~ Windings/Stamina.md",
-    "Core/Chapter 2 ~ Windings/Health.md",
-    "Core/Chapter 2 ~ Windings/Disposition.md",
-    "Core/Chapter 2 ~ Windings/Deck.md",
     "Core/Chapter 3 ~ The Loom/State.md",
     "Core/Chapter 3 ~ The Loom/Damage.md",
+    "Core/Chapter 3 ~ The Loom/States/Resistance(Multi).md",
+    "Core/Chapter 3 ~ The Loom/States/Over the Edge.md",
+    "Core/Chapter 3 ~ The Loom/States/Unconscious.md",
+    "Core/Chapter 2 ~ Windings/Point.md",
+    "Core/Chapter 2 ~ Windings/Stamina.md",
+    "Core/Chapter 2 ~ Windings/Health.md",
+    "Core/Chapter 2 ~ Windings/Aspect.md",
+    "Core/Chapter 2 ~ Windings/Deck.md",
+    "Core/Chapter 2 ~ Windings/Disposition.md",
+    "Core/Chapter 1 ~ The Spool/Chance.md",
     "Core/Chapter 1 ~ The Spool/TTRPGs.md",
     "Core/Chapter 1 ~ The Spool/Thread.md",
-    "Core/Chapter 1 ~ The Spool/Chance.md",
     "Core/Chapter 1 ~ The Spool/Philosophy.md",
     "Notes.md",
     "conflict-files-obsidian-git.md",
@@ -182,16 +186,13 @@
     "ThreadTTRPG/sortspec.md",
     "ThreadTTRPG/README.md",
     "ThreadTTRPG",
-    "Core/Chapter 3 ~ The Loom/States/Over the Edge.md",
     "Core/Chapter 2 ~ Windings/Damage.md",
-    "Core/Chapter 3 ~ The Loom/States/Unconscious.md",
     "Core/Chapter 3 ~ The Loom/B.md",
     "Core/Chapter 3 ~ The Loom/States",
     "Core/Chapter 3 ~ The Loom",
     "Events.md",
     "The Weaver.md",
     "The Players.md",
-    "Core/Chapter 1 ~ The Spool/2 Test2.md",
     "Core/Chapter 2 ~ Windings",
     "Core/Chapter 1 ~ The Spool",
     "Core"

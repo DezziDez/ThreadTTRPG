@@ -1,6 +1,6 @@
 # */ ʌnˈkɒn ʃəs /*
 ***Adjective*** ~ Not conscious; without awareness, sensation, or cognition.
-# Effects
+
 - You are completely unaware of your surroundings
 - You cannot use any Actions
 - You cannot speak, interact, or affect the world.

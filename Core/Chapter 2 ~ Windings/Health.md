@@ -7,7 +7,7 @@ Page: 5
 # Eat Your Vegetables
 Health is a resource that represents a [[TTRPGs#Characters|Character's]] Vitality and Luck.
 
-A Character's Maximum Health value is calculated by adding the [[Points]] of the Character's [[Aspects#♥ Body|Body]] and [[Aspects#♣ Luck|Luck]] [[Aspects]].
+A Character's Maximum Health value is calculated by adding the [[Point|Points]] of the Character's [[Aspect#♥ Body|Body]] and [[Aspect#♣ Luck|Luck]] [[Aspect|Aspects]].
 >[!Example]
 >If a Character has 3 Points in Body and 4 Points in Luck. Then the Character has a maximum Health of 7. (3+4 = 7)
 # The Edge

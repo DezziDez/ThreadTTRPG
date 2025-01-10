@@ -3,8 +3,8 @@ Page: 2
 ...
 ---
 # *Titterpig*
-- *A Tabletop Role Playing Game/System (TTRPG)*
-  
+*A Tabletop Role Playing Game/System (TTRPG)*
+
 ***Noun*** ~ A collective story building and playing experience in which people gather together to play as characters to move through and construct a story inside a setting using rules or systems. 
 # When Pigs Titter
 TTRPGs have many terms and ideas that are common place in the game genre.

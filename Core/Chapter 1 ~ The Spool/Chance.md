@@ -3,7 +3,7 @@ Page: 3
 ...
 ---
 # */ tʃæns /*
-***Noun*** ~ a possibility of something happening
+***Noun*** ~ A possibility of something happening
 # What are the odds?
 Every TTRPG has some form of decision-making ability. This is usually performed with some kind of randomness generator. In Thread, this is done by giving each player and the Weaver a [standard 52-card deck](https://en.wikipedia.org/wiki/Standard_52-card_deck) with the addition of 2 different Jokers, often two different colors such as black and red.
 ## Jokers

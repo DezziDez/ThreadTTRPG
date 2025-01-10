@@ -5,5 +5,5 @@
 - You cannot use any Actions
 - You cannot speak, interact, or affect the world.
 - You Fall to the ground
-- You drop all Held Objects
+- You drop all Held [[Object|Objects]]
 - All Damage you take is Unavoidable

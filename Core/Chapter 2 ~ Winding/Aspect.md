@@ -5,7 +5,7 @@ Page: 3
 # */ ˈæs pɛkt /*
 ***Noun*** ~ A particular appearance or quality
 # You're Special
-All [[TTRPGs#Characters|Characters]] possess natural Aspects. These Aspects come in 4 forms. 2 physical and 2 ethereal. Body, Mind, Spirit, and Luck. Each Aspect's power is represented by the number of [[Point|Points]] that have been spent in each Aspect, as well as an associated Suit from the Deck.
+All [[TTRPG#Characters|Characters]] possess natural Aspects. These Aspects come in 4 forms. 2 physical and 2 ethereal. Body, Mind, Spirit, and Luck. Each Aspect's power is represented by the number of [[Point|Points]] that have been spent in each Aspect, as well as an associated Suit from the Deck.
 ## ♥ Body
 The physical form of any Character is its Body. This Aspect helps determine the physical ability of the Character.
 ## ♦ Mind

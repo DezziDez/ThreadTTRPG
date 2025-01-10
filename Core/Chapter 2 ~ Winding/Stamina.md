@@ -5,7 +5,7 @@ Page: 6
 # */ ˈstæm ə nə /*
 ***Noun*** ~ Physical strength, the power to endure, the will to push forward
 # Never Give Up
-Stamina is a resource that represents a [[TTRPGs#Characters|Character's]] Will and Endurance.
+Stamina is a resource that represents a [[TTRPG#Characters|Character's]] Will and Endurance.
 
 A Character's Maximum Stamina value is calculated by adding the [[Point|Points]] of the Character's [[Aspect#♦ Mind|Mind]] and [[Aspect#♠ Spirit|Spirit]] [[Aspect|Aspects]].
 >[!Example]

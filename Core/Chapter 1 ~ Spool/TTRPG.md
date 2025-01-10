@@ -16,7 +16,7 @@ The Weaver is the real person that makes the rulings of the game, tells the main
 The Weaver is the main judge and decides what the players and characters can and cannot do. This includes anything from within the setting to the rules of Thread itself.
 # Characters
 Characters are the medium in which players use to interact with the story and setting. These characters are usually designed with their own stories and motivations to make them feel like people outside the players that control them.
-- ## Characters in Thread
+- ## Characters In Thread
 Every living being in Thread is considered a character regardless of who is controlling them. If it can make choices and/or perform actions, it is a character.
 - ## NPCs
 Non-player Characters are the characters of a story that are not controlled by the players and have their own motivations and backgrounds that the players may not know about. 
@@ -25,4 +25,4 @@ The setting is the rules, history, NPCs, and ideas that make up a world that the
 # Story
 The story that takes place inside a TTRPG is ever evolving with unexpected twists and turns due to the choices made by the players and guided by the Weaver.
 # Objects
-Objects are anything that isn't a Character. These are things, items, structures, or anything else that might change in the world that can't make its own choices.
+[[Object|Objects]] are anything that isn't a Character. These are things, items, structures, or anything else that might change in the world that can't make its own choices.

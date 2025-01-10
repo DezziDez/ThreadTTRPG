@@ -5,7 +5,7 @@ Page: 5
 # */ hɛlθ /*
 ***Noun*** ~ The general condition of the body with reference to soundness and vigor
 # Eat Your Vegetables
-Health is a resource that represents a [[TTRPGs#Characters|Character's]] Vitality and Luck.
+Health is a resource that represents a [[TTRPG#Characters|Character's]] Vitality and Luck.
 
 A Character's Maximum Health value is calculated by adding the [[Point|Points]] of the Character's [[Aspect#♥ Body|Body]] and [[Aspect#♣ Luck|Luck]] [[Aspect|Aspects]].
 >[!Example]

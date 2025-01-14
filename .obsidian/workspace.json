@@ -42,13 +42,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "Core/Chapter 2 ~ Winding/Point.md",
+                "bFile": "Core/Chapter 2 ~ Winding/Point.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .gitignore"
+              "title": "Diff: Point"
             }
           }
         ],
@@ -195,6 +194,12 @@
   },
   "active": "991530aaf9273d16",
   "lastOpenFiles": [
+    "Core/Chapter 3 ~ Loom/State.md",
+    "Core/Chapter 2 ~ Winding/Stamina.md",
+    "Core/Chapter 2 ~ Winding/Point.md",
+    "Core/Chapter 2 ~ Winding/Health.md",
+    "Core/Chapter 2 ~ Winding/Disposition.md",
+    "Core/Chapter 2 ~ Winding/Deck.md",
     "conflict-files-obsidian-git.md",
     "Core/Chapter 7 ~ Dye/Traveling.md",
     "Core/Chapter 7 ~ Dye/Clocks.md",
@@ -219,15 +224,9 @@
     "Core/Chapter 3 ~ Loom/Paths/Chat.md",
     "Core/Chapter 3 ~ Loom/Paths/Move.md",
     "Core/Chapter 3 ~ Loom/Paths/Dodge.md",
-    "Core/Chapter 3 ~ Loom/Paths/Attack.md",
-    "Core/Chapter 3 ~ Loom/State.md",
     "Core/Chapter 3 ~ Loom/States",
-    "Core/Chapter 3 ~ Loom/Path.md",
     "Core/Chapter 3 ~ Loom/Paths",
-    "Core/Chapter 3 ~ Loom/Action.md",
     "Core/Chapter 3 ~ Loom",
-    "Core/Chapter 2 ~ Winding/Point.md",
-    "Core/Chapter 2 ~ Winding/Stamina.md",
     "Core/Chapter 2 ~ Winding",
     "Core/Chapter 1 ~ Spool",
     "ThreadTTRPG"

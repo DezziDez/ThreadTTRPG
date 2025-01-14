@@ -4,7 +4,7 @@ Page: 1
 ---
 # */ θrɛd /* 
 ***Verb** ~ To put together or interweave*
-# What is Thread?
+# What Is Thread?
 Thread is a table-top role playing system that is also a living document. And as such, is ever evolving and changing over time to better fit the needs of those that use it.
 
 This system was built from the ground up to have modular, interweaving components that produce emergence from simplistic rules and structures.

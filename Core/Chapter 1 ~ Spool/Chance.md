@@ -9,7 +9,7 @@ Every TTRPG has some form of decision-making ability, which is usually performed
 ## Jokers
 In each deck of cards, there will always be two jokers that represent extreme outcomes. The owner of each deck should assign the good (+🃏) and bad (-🃏) joker in their deck ahead of time.
 Whenever a Joker is drawn, it <b><u>must</u></b> be used, unless otherwise noted.
-# Values
+# Card Values
 The values of each card are as follows:
 
 | Name  | Value | Name       | Symbol |

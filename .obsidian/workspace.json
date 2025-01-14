@@ -8,50 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d764bf3f29f7f34",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/novel-word-count/data.json",
-                "bFile": ".obsidian/plugins/novel-word-count/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
-            }
-          },
-          {
-            "id": "842fc10c9e2536c3",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Core/Chapter 2 ~ Windings/Points.md",
-                "bFile": "Core/Chapter 2 ~ Windings/Points.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Points"
-            }
-          },
-          {
             "id": "991530aaf9273d16",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Core/Chapter 2 ~ Winding/Point.md",
-                "bFile": "Core/Chapter 2 ~ Winding/Point.md",
-                "aRef": ""
+                "file": "Core/Chapter 4 ~ Weaving/Event.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Point"
+              "icon": "lucide-file",
+              "title": "Event"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,41 +164,41 @@
   },
   "active": "991530aaf9273d16",
   "lastOpenFiles": [
-    "Core/Chapter 3 ~ Loom/State.md",
+    "Core/Chapter 4 ~ Weaving/Life.md",
+    "Core/Chapter 4 ~ Weaving/Damage.md",
+    "Core/Chapter 4 ~ Weaving/Check.md",
+    "Core/Chapter 4 ~ Weaving/Event.md",
+    "Core/Chapter 3 ~ Loom/States/Hidden.md",
+    "Core/Chapter 3 ~ Loom/Action.md",
     "Core/Chapter 2 ~ Winding/Stamina.md",
-    "Core/Chapter 2 ~ Winding/Point.md",
+    "Core/Chapter 6 ~ Blanket/Object.md",
+    "Core/Chapter 5 ~ Cloth/Step.md",
+    "Core/Chapter 3 ~ Loom/State.md",
     "Core/Chapter 2 ~ Winding/Health.md",
-    "Core/Chapter 2 ~ Winding/Disposition.md",
+    "Core/Chapter 2 ~ Winding/Point.md",
+    "Core/Chapter 2 ~ Winding/Aspect.md",
     "Core/Chapter 2 ~ Winding/Deck.md",
+    "Core/Chapter 2 ~ Winding/Disposition.md",
+    "Core/Chapter 1 ~ Spool/Philosophy.md",
+    "Core/Chapter 1 ~ Spool/Chance.md",
+    "Core/Chapter 1 ~ Spool/TTRPG.md",
+    "Core/Chapter 1 ~ Spool/Thread.md",
+    "Core/Chapter 3 ~ The Loom/Actions/Dodge.md",
+    "Core/Chapter 3 ~ The Loom/Actions",
+    "Core/Chapter 3 ~ The Loom",
+    "Core/Chapter 4 ~ Weaving/Rest.md",
+    "Core/Chapter 3 ~ Loom/Path.md",
     "conflict-files-obsidian-git.md",
     "Core/Chapter 7 ~ Dye/Traveling.md",
     "Core/Chapter 7 ~ Dye/Clocks.md",
     "Core/Chapter 7 ~ Dye",
-    "Core/Chapter 6 ~ Blanket/Object.md",
     "Core/Chapter 6 ~ Blanket",
-    "Core/Chapter 5 ~ Cloth/Step.md",
     "Core/Chapter 5 ~ Cloth",
-    "Core/Chapter 4 ~ Weaving/Life.md",
-    "Core/Chapter 4 ~ Weaving/Event.md",
-    "Core/Chapter 4 ~ Weaving/Rest.md",
-    "Core/Chapter 4 ~ Weaving/Damage.md",
-    "Core/Chapter 4 ~ Weaving/Check.md",
     "Core/Chapter 4 ~ Weaving",
     "Core/Chapter 3 ~ Loom/States/Unconscious.md",
-    "Core/Chapter 3 ~ Loom/States/Resistance(Multi).md",
-    "Core/Chapter 3 ~ Loom/States/Over the Edge.md",
-    "Core/Chapter 3 ~ Loom/Paths/Shift.md",
-    "Core/Chapter 3 ~ Loom/Paths/Patience.md",
-    "Core/Chapter 3 ~ Loom/Paths/Free.md",
-    "Core/Chapter 3 ~ Loom/Paths/Help.md",
-    "Core/Chapter 3 ~ Loom/Paths/Chat.md",
-    "Core/Chapter 3 ~ Loom/Paths/Move.md",
-    "Core/Chapter 3 ~ Loom/Paths/Dodge.md",
     "Core/Chapter 3 ~ Loom/States",
     "Core/Chapter 3 ~ Loom/Paths",
     "Core/Chapter 3 ~ Loom",
-    "Core/Chapter 2 ~ Winding",
-    "Core/Chapter 1 ~ Spool",
-    "ThreadTTRPG"
+    "Core/Chapter 2 ~ Winding"
   ]
 }

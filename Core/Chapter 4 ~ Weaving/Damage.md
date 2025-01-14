@@ -6,19 +6,30 @@ In Thread, there are many Damage sources that would cause a [[TTRPG#Characters|C
 There are 4 primary Damage types.
 ## Chemical
 Damage that is considered toxic or harms chemically.
->[!Examples]
->Poisons, acids, bases, and radiation.
+>[!Example] Examples
+>- Poisons
+>- Acids
+>- Bases
+>- Radiation
 ## Mental
 Damage that harms the mind or will.
->[!Examples]
->Insults, arguments, riddles, lasting pain, and trauma.
+>[!Example] Examples
+>- Insults
+>- Arguments
+>- Riddles
+>- Lasting pain
+>- Trauma
 ## Physical
 Damage that directly harms bodies or objects.
->[!Examples]
->Crushing, cutting, stabbing, and falling then landing.
+>[!Example] Examples
+>- Crushing
+>- Cutting
+>- Stabbing
+>  Falling then Landing
 ## Temperate
 Damage that occurs due to changes in temperature.
->[!Examples]
->Burning and freezing.
+>[!Example] Examples
+>- Burning
+>- Freezing
 # Unavoidable
-Damage that is Unavoidable cannot be [[Core/Chapter 3 ~ The Loom/Actions/Dodge|Dodged]].
+Damage that is Unavoidable cannot be [[Dodge|Dodged]].

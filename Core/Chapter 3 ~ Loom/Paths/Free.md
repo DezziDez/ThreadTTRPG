@@ -3,7 +3,7 @@ A Free Action is any small and fast Action that still has some significance.
 >[!Examples]
 >- Equipping or Unequipping an Object
 >- Studying another Character to gain information.
->- Taking a Step. (This also triggers a Step allowing you to move 2 Steps total)
+>- Taking a Step. (This also triggers a Step allowing you to move 2 [[Tiles]] total)
 >- Using an Object.
 >- Reloading a Ranged Weapon.
 >- A quick shout to another Character.

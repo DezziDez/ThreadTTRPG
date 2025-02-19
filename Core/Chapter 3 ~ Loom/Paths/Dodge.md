@@ -1,5 +1,5 @@
-Whenever a Character is about to take Damage, they may Dodge.
-Dodging is subtracting any chosen amount of remaining [[Stamina]] instead of Health. Any Damage left over reduces Health as normal.
+Whenever a [[TTRPG#Characters|Character]] is about to take [[Damage]], they may Dodge.
+Dodging is subtracting any chosen amount of remaining [[Stamina]] instead of [[Health]]. Any Damage left over after this reduction reduces Health as normal.
 
 >[!Example]
 >A Character has 10/10 Stamina and 12/12 Health.

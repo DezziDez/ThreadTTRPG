@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Chapter 3 ~ Loom/States/Hidden.md",
+                "file": "Core/Chapter 4 ~ Weaving/Fall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hidden"
+              "title": "Fall"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tile",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Chapter 2 ~ Windings/Stamina.md",
+                "file": "Core/Chapter 4 ~ Weaving/Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stamina"
+              "title": "Backlinks for Fall"
             }
           },
           {
@@ -103,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Chapter 2 ~ Windings/Stamina.md",
+                "file": "Core/Chapter 4 ~ Weaving/Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stamina"
+              "title": "Outgoing links from Fall"
             }
           },
           {
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,36 +163,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "991530aaf9273d16",
+  "active": "74886e19589ec41a",
   "lastOpenFiles": [
+    "Core/Chapter 4 ~ Weaving/Event.md",
+    "Core/Chapter 4 ~ Weaving/Fall.md",
+    "Core/Chapter 3 ~ Loom/Paths/Dodge.md",
+    "Core/Chapter 4 ~ Weaving/Damage.md",
+    "Core/Chapter 4 ~ Weaving/Life.md",
+    "Core/Chapter 5 ~ Cloth/Tile.md",
+    "Core/Chapter 3 ~ Loom/Paths/Free.md",
+    "Core/Chapter 3 ~ Loom/Action.md",
+    "Core/Chapter 4 ~ Weaving/Check.md",
+    "Core/Chapter 2 ~ Winding/Point.md",
+    "Core/Chapter 1 ~ Spool/Chance.md",
+    "Core/Chapter 2 ~ Winding/Health.md",
+    "Core/Chapter 3 ~ Loom/States/Over the Edge.md",
+    "Core/Chapter 3 ~ Loom/States/Unconscious.md",
     "Core/Chapter 3 ~ Loom/States/Resistance {Multi}.md",
     "Core/Chapter 3 ~ Loom/States/Hidden.md",
-    "Core/Chapter 3 ~ Loom/States/Over the Edge.md",
-    "Core/Chapter 3 ~ Loom/State.md",
+    "Core/Chapter 2 ~ Winding/Stamina.md",
+    "Core/Chapter 4 ~ Weaving/Day.md",
     "Core/Chapter 2 ~ Winding/Deck.md",
     "Core/Chapter 2 ~ Winding/Aspect.md",
+    "Core/Chapter 5 ~ Cloth/Size.md",
+    "Core/Chapter 3 ~ Loom/State.md",
     "Core/Chapter 1 ~ Spool/Thread.md",
     "Core/Chapter 1 ~ Spool/TTRPG.md",
-    "Core/Chapter 3 ~ Loom/States/Unconscious.md",
-    "Core/Chapter 4 ~ Weaving/Event.md",
-    "Core/Chapter 4 ~ Weaving/Life.md",
-    "Core/Chapter 4 ~ Weaving/Damage.md",
-    "Core/Chapter 4 ~ Weaving/Check.md",
-    "Core/Chapter 3 ~ Loom/Action.md",
-    "Core/Chapter 2 ~ Winding/Stamina.md",
     "Core/Chapter 6 ~ Blanket/Object.md",
-    "Core/Chapter 5 ~ Cloth/Step.md",
-    "Core/Chapter 2 ~ Winding/Health.md",
-    "Core/Chapter 2 ~ Winding/Point.md",
     "Core/Chapter 2 ~ Winding/Disposition.md",
-    "Core/Chapter 1 ~ Spool/Philosophy.md",
-    "Core/Chapter 1 ~ Spool/Chance.md",
-    "Core/Chapter 3 ~ The Loom/Actions/Dodge.md",
     "Core/Chapter 3 ~ The Loom/Actions",
     "Core/Chapter 3 ~ The Loom",
-    "Core/Chapter 4 ~ Weaving/Rest.md",
-    "Core/Chapter 3 ~ Loom/Path.md",
-    "conflict-files-obsidian-git.md",
     "Core/Chapter 7 ~ Dye",
     "Core/Chapter 6 ~ Blanket",
     "Core/Chapter 5 ~ Cloth",

@@ -13,5 +13,6 @@
   "remoteDictionary": [],
   "pickyMode": true,
   "synonyms": "en",
-  "staticLanguage": "en"
+  "staticLanguage": "en",
+  "disabledRules": "EN_QUOTES"
 }

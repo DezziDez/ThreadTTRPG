@@ -2,7 +2,7 @@
 Page: 2
 ...
 ---
-# */ dɛk /*
+# *# */ dɛk /**
 ***Noun*** ~ A complete set of 52 playing cards
 # Nice Deck
 All [[TTRPG#Characters|Characters]] and [[TTRPG#The Weaver|The Weaver]] are given a deck of cards. This Deck represents a character's long term [[Chance|Luck]] and Energy. The deck is used face down, so the next card on the top of the Deck is unknown.

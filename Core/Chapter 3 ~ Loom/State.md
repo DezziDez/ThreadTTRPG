@@ -7,6 +7,6 @@ All States can have additional instances of the State on one Character at a time
 
 If a State is to be removed, doing so only removes one Stack of the State, unless all Stacks are specified in the process.
 # Multi States
-States that are Multi describe different version of the same state. When described they will appear as "State Name(Multi Option)" such as Resistance(Physical) or Resistance(Multi) when there is no selection.
+States that are Multi describe different version of the same state. When described they will appear as "State Name {Multi Option}" such as Resistance {Physical} or Resistance(Multi) when there is no selection.
 
 Effects that mention the Multi will appear as {Multi} which would then be substituted by the selected option.

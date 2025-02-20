@@ -6,7 +6,7 @@ Actions are used whenever a [[TTRPG#Characters|Character]] wants to do anything 
 Using an Action always causes the Character to [[Deck#Discard|Discard]] one Card and lose an amount of Stamina noted in the Action. 
 An Action cannot cost less than one [[Stamina]] or Card unless **explicitly** noted otherwise.
 # Continuous Cost
-Actions that have a (C) may be Continuous. These actions have some constant use with the cost of an amount of Stamina at the [[Event#Turns#Phase 1 Start Turn|Start]] of the Character's Turn.
+Some Actions may be Continuous. These actions have some constant use with the cost of an amount of Stamina at the [[Event#Turns#Phase 1 Start Turn|Start]] of the Character's Turn.
 
 Continuous Actions can be ended at any time by the Character at no cost.
 # Step

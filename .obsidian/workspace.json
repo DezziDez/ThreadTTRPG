@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Chapter 4 ~ Weaving/Fall.md",
+                "file": "Core/Chapter 4 ~ Weaving/Check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fall"
+              "title": "Check"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tile",
+                "query": "tiles",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,34 +163,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74886e19589ec41a",
+  "active": "991530aaf9273d16",
   "lastOpenFiles": [
-    "Core/Chapter 4 ~ Weaving/Event.md",
-    "Core/Chapter 4 ~ Weaving/Fall.md",
-    "Core/Chapter 3 ~ Loom/Paths/Dodge.md",
-    "Core/Chapter 4 ~ Weaving/Damage.md",
-    "Core/Chapter 4 ~ Weaving/Life.md",
-    "Core/Chapter 5 ~ Cloth/Tile.md",
-    "Core/Chapter 3 ~ Loom/Paths/Free.md",
     "Core/Chapter 3 ~ Loom/Action.md",
     "Core/Chapter 4 ~ Weaving/Check.md",
-    "Core/Chapter 2 ~ Winding/Point.md",
-    "Core/Chapter 1 ~ Spool/Chance.md",
-    "Core/Chapter 2 ~ Winding/Health.md",
-    "Core/Chapter 3 ~ Loom/States/Over the Edge.md",
-    "Core/Chapter 3 ~ Loom/States/Unconscious.md",
+    "Core/Chapter 3 ~ Loom/States/Exhaustion.md",
     "Core/Chapter 3 ~ Loom/States/Resistance {Multi}.md",
-    "Core/Chapter 3 ~ Loom/States/Hidden.md",
-    "Core/Chapter 2 ~ Winding/Stamina.md",
-    "Core/Chapter 4 ~ Weaving/Day.md",
     "Core/Chapter 2 ~ Winding/Deck.md",
-    "Core/Chapter 2 ~ Winding/Aspect.md",
-    "Core/Chapter 5 ~ Cloth/Size.md",
-    "Core/Chapter 3 ~ Loom/State.md",
-    "Core/Chapter 1 ~ Spool/Thread.md",
+    "Core/Chapter 3 ~ Loom/States/Senseless.md",
+    "Core/Chapter 3 ~ Loom/States/Restrained.md",
+    "Core/Chapter 3 ~ Loom/States/Slowed.md",
+    "Core/Chapter 1 ~ Spool/Chance.md",
     "Core/Chapter 1 ~ Spool/TTRPG.md",
-    "Core/Chapter 6 ~ Blanket/Object.md",
+    "Core/Chapter 2 ~ Winding/Aspect.md",
+    "Core/Chapter 3 ~ Loom/States/Over the Edge.md",
+    "Core/Chapter 3 ~ Loom/States/Pain {Multi}.md",
+    "Core/Chapter 3 ~ Loom/Paths/Patience.md",
+    "Core/Chapter 4 ~ Weaving/Damage.md",
+    "Core/Chapter 3 ~ Loom/States/Unconscious.md",
+    "Core/Chapter 3 ~ Loom/Paths/Shift.md",
+    "Core/Chapter 3 ~ Loom/Paths/Move.md",
+    "Core/Chapter 3 ~ Loom/Paths/Help.md",
+    "Core/Chapter 3 ~ Loom/Paths/Free.md",
+    "Core/Chapter 2 ~ Winding/Stamina.md",
+    "Core/Chapter 2 ~ Winding/Point.md",
+    "Core/Chapter 3 ~ Loom/Paths/Attack.md",
+    "Core/Chapter 3 ~ Loom/Paths/Chat.md",
     "Core/Chapter 2 ~ Winding/Disposition.md",
+    "Core/Chapter 3 ~ Loom/Paths/Dodge.md",
     "Core/Chapter 3 ~ The Loom/Actions",
     "Core/Chapter 3 ~ The Loom",
     "Core/Chapter 7 ~ Dye",

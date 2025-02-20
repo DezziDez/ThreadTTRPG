@@ -13,7 +13,7 @@ Checks are a type of [[Action]] made by adding the [[Point]] values of two [[Asp
 This Action Costs 2 [[Stamina]].
 This Action Costs 1 Stamina while Continuous.
 # Continuous
-If a Character wishes to continue performing a check repeatedly every round then the Character can make the Action [[Action#Continuous Cost|Continuous]]. Doing so does not require the Character to Discard any more cards.
+If a Character wishes to continue performing a check repeatedly every round, then the Character can make the Action [[Action#Continuous Cost|Continuous]]. Doing so does not require the Character to Discard any more cards.
 
 # The World
 Checks can be made against the environment or [[TTRPG#Setting|World]]. [[TTRPG#The Weaver|The Weaver]] determines the Difficulty of the Check and can provide any amount of information about the Difficulty of the check as they wish.
@@ -27,7 +27,7 @@ Checks can be made against the environment or [[TTRPG#Setting|World]]. [[TTRPG#T
 | Extreme | 40-50 | Something that not even luck can help you succeed.                 |
 # Contests
 Contests are Checks that occur between two or more Characters. The Checks do not need to be the same depending on the situation.
-Characters may choose to have their Checks be public or private.
+Contesting Characters may choose to have their Checks be public or private.
 
 # Jokers
 Whenever a [[Chance#Jokers|Joker]] is Discarded for a Check, it affects the Check as follows:

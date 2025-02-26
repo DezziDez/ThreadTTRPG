@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af2dde43ea3ee4bd",
+        "id": "a505a5be05815c20",
         "type": "tabs",
         "children": [
           {
-            "id": "0d764bf3f29f7f34",
+            "id": "1f3bdc96637f03a2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Core/Chapter 4 ~ Weaving/Life.md",
-                "bFile": "Core/Chapter 4 ~ Weaving/Life.md",
-                "aRef": ""
+                "file": "Core/Chapter 6 ~ Blanket/Inventory.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Life"
+              "icon": "lucide-file",
+              "title": "Inventory"
             }
           }
         ]
@@ -162,19 +162,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d764bf3f29f7f34",
+  "active": "1f3bdc96637f03a2",
   "lastOpenFiles": [
+    "Core/Chapter 6 ~ Blanket/Craft.md",
     "Core/Chapter 6 ~ Blanket/Object.md",
+    "Core/Chapter 6 ~ Blanket/Inventory.md",
+    "Core/Chapter 6 ~ Blanket/Properties/Flexible.md",
+    "Core/Chapter 6 ~ Blanket/Properties/Edible.md",
+    "Core/Chapter 6 ~ Blanket/Properties/Soft.md",
+    "Core/Chapter 6 ~ Blanket/Properties/Sturdy.md",
+    "Core/Chapter 6 ~ Blanket/Properties/Hard.md",
     "Core/Chapter 5 ~ Cloth/Size.md",
+    "Core/Chapter 2 ~ Winding/Health.md",
+    "Core/Chapter 1 ~ Spool/Philosophy.md",
+    "Core/Chapter 6 ~ Blanket/Properties",
+    "Core/Chapter 7 ~ Dye/Travel.md",
     "Core/Chapter 1 ~ Spool/Thread.md",
     "Core/Chapter 1 ~ Spool/TTRPG.md",
     "Core/Chapter 1 ~ Spool/Chance.md",
-    "Core/Chapter 1 ~ Spool/Philosophy.md",
     "Core/Chapter 2 ~ Winding/Disposition.md",
     "Core/Chapter 2 ~ Winding/Deck.md",
     "Core/Chapter 2 ~ Winding/Aspect.md",
     "Core/Chapter 2 ~ Winding/Point.md",
-    "Core/Chapter 2 ~ Winding/Health.md",
     "Core/Chapter 2 ~ Winding/Stamina.md",
     "Core/Chapter 3 ~ Loom/Action.md",
     "Core/Chapter 3 ~ Loom/Path.md",
@@ -182,14 +191,6 @@
     "Core/Chapter 4 ~ Weaving/Check.md",
     "Core/Chapter 4 ~ Weaving/Damage.md",
     "Core/Chapter 4 ~ Weaving/Event.md",
-    "Core/Chapter 4 ~ Weaving/Fall.md",
-    "Core/Chapter 4 ~ Weaving/Life.md",
-    "Core/Chapter 5 ~ Cloth/Light.md",
-    "Core/Chapter 5 ~ Cloth/Tile.md",
-    "Core/Chapter 6 ~ Blanket/Crafting.md",
-    "Core/Chapter 7 ~ Dye/Traveling.md",
-    "Core/Chapter 7 ~ Dye/Groups.md",
-    "Core/Chapter 7 ~ Dye/Clocks.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash",
     "textgenerator/templates",
@@ -198,7 +199,6 @@
     "Core/Chapter 6 ~ Blanket",
     "Core/Chapter 5 ~ Cloth",
     "Core/Chapter 4 ~ Weaving",
-    "Core/Chapter 3 ~ Loom/Paths",
-    "Core/Chapter 3 ~ The Loom/Actions"
+    "Core/Chapter 3 ~ Loom/Paths"
   ]
 }

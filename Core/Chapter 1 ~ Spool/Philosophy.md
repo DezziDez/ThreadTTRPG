@@ -4,7 +4,7 @@
 The idea of [[Thread]] was born of frustration. A system was desired that gives all the tools necessary to create any world or concept without restrictions while being as simple as possible for anyone to understand. So, Thread was created. The intention is for Thread to be a working system, tool box, and toy box with everything needed inside all in one.
 # Constraints
 ## Complexity Maximum
-1. Calculations should never be anything other than addition or subtraction.
+1. Calculations should never be anything other than addition or subtraction. Highest complexity being doubling which is X + X.
 2. Calculations should never be more than 3 values. Generally 2.
 3. The number of interactions in a rule set in the core rules should be at most 4. Generally 2-3.
 4. The rules should be simple or condensed so any reader as young as 10 can understand and grasp the greater concepts.

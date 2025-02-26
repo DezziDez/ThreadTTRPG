@@ -1,6 +1,5 @@
 {
   "theme": "obsidian",
   "accentColor": "#eadb2e",
-  "cssTheme": "Minimal",
-  "showRibbon": true
+  "cssTheme": "Minimal"
 }

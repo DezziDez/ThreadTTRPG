@@ -1,0 +1,1 @@
+This [[Object]] is considered to be equivalent to one [[Life#Fuel|Fuel]] for each [[Size#Bulk|Bulk]] of the Object.

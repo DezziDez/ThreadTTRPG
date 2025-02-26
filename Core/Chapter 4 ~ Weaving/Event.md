@@ -25,6 +25,6 @@ The Weaver determines the Character that initiated the Event. This Character Sta
 
 Characters choose which Character who has not had a Turn this Round goes next at the End of their Turns. 
 
-Once all Characters in the Event have had a Turn. The last Character chooses any Character to begin their Turn of the next Round.
+Once all Characters in the Event have had a Turn. The last Character chooses any other Character to begin their Turn of the next Round.
 # Hiding
 Characters that are not known to others gain the [[Hidden]] [[State]] towards those Characters that are not aware of them.

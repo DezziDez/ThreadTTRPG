@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "991530aaf9273d16",
+            "id": "0d764bf3f29f7f34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Core/Chapter 5 ~ Cloth/Light.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Core/Chapter 4 ~ Weaving/Life.md",
+                "bFile": "Core/Chapter 4 ~ Weaving/Life.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Light"
+              "icon": "diff",
+              "title": "Diff: Life"
             }
           }
         ]
@@ -40,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tiles",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Chapter 5 ~ Cloth/Light.md",
+                "file": "Core/Chapter 7 ~ Dye/Clocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Light"
+              "title": "Backlinks for Clocks"
             }
           },
           {
@@ -103,12 +102,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Chapter 5 ~ Cloth/Light.md",
+                "file": "Core/Chapter 7 ~ Dye/Clocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Light"
+              "title": "Outgoing links from Clocks"
             }
           },
           {
@@ -130,10 +129,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Chapter 2 ~ Windings/Stamina.md"
+                "file": "Core/Chapter 1 ~ The Spool/3 Chance.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Stamina"
+              "title": "Outline of 3 Chance"
             }
           },
           {
@@ -151,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,43 +162,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74886e19589ec41a",
+  "active": "0d764bf3f29f7f34",
   "lastOpenFiles": [
+    "Core/Chapter 6 ~ Blanket/Object.md",
     "Core/Chapter 5 ~ Cloth/Size.md",
-    "Core/Chapter 3 ~ Loom/State.md",
+    "Core/Chapter 1 ~ Spool/Thread.md",
+    "Core/Chapter 1 ~ Spool/TTRPG.md",
+    "Core/Chapter 1 ~ Spool/Chance.md",
+    "Core/Chapter 1 ~ Spool/Philosophy.md",
+    "Core/Chapter 2 ~ Winding/Disposition.md",
+    "Core/Chapter 2 ~ Winding/Deck.md",
+    "Core/Chapter 2 ~ Winding/Aspect.md",
+    "Core/Chapter 2 ~ Winding/Point.md",
+    "Core/Chapter 2 ~ Winding/Health.md",
+    "Core/Chapter 2 ~ Winding/Stamina.md",
     "Core/Chapter 3 ~ Loom/Action.md",
     "Core/Chapter 3 ~ Loom/Path.md",
-    "Core/Chapter 5 ~ Cloth/Area of Effect.md",
-    "Core/Chapter 5 ~ Cloth/Tile.md",
-    "Core/Chapter 1 ~ Spool/TTRPG.md",
-    "Core/Chapter 6 ~ Blanket/Object.md",
+    "Core/Chapter 3 ~ Loom/State.md",
     "Core/Chapter 4 ~ Weaving/Check.md",
     "Core/Chapter 4 ~ Weaving/Damage.md",
     "Core/Chapter 4 ~ Weaving/Event.md",
     "Core/Chapter 4 ~ Weaving/Fall.md",
     "Core/Chapter 4 ~ Weaving/Life.md",
-    "Core/Chapter 5 ~ Cloth/Cover.md",
     "Core/Chapter 5 ~ Cloth/Light.md",
-    "Core/Chapter 6 ~ Blanket/Inventory.md",
+    "Core/Chapter 5 ~ Cloth/Tile.md",
     "Core/Chapter 6 ~ Blanket/Crafting.md",
-    "Core/Chapter 2 ~ Winding/Stamina.md",
-    "Core/Chapter 2 ~ Winding/Health.md",
-    "Core/Chapter 2 ~ Winding/Point.md",
-    "Core/Chapter 2 ~ Winding/Deck.md",
-    "Core/Chapter 2 ~ Winding/Disposition.md",
-    "Core/Chapter 1 ~ Spool/Chance.md",
     "Core/Chapter 7 ~ Dye/Traveling.md",
     "Core/Chapter 7 ~ Dye/Groups.md",
     "Core/Chapter 7 ~ Dye/Clocks.md",
-    "Core/Chapter 6 ~ Blanket/Properties",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash",
-    "textgenerator/templates/smartConnections",
     "textgenerator/templates",
     "textgenerator",
-    "Core/Chapter 3 ~ The Loom/Actions",
-    "Core/Chapter 3 ~ The Loom",
     "Core/Chapter 7 ~ Dye",
-    "Core/Chapter 6 ~ Blanket"
+    "Core/Chapter 6 ~ Blanket",
+    "Core/Chapter 5 ~ Cloth",
+    "Core/Chapter 4 ~ Weaving",
+    "Core/Chapter 3 ~ Loom/Paths",
+    "Core/Chapter 3 ~ The Loom/Actions"
   ]
 }

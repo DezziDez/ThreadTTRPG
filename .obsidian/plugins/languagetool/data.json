@@ -14,5 +14,5 @@
   "pickyMode": true,
   "synonyms": "en",
   "staticLanguage": "en",
-  "disabledRules": "EN_QUOTES,EN_UPPER_CASE_NGRAM"
+  "disabledRules": "EN_UPPER_CASE_NGRAM,NOUN_AROUND_IT,EN_REPEATEDWORDS_AFFECT"
 }

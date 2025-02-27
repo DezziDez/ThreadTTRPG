@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Chapter 6 ~ Blanket/Inventory.md",
+                "file": "Core/Chapter 1 ~ Spool/Philosophy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Philosophy"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,9 +165,9 @@
   },
   "active": "1f3bdc96637f03a2",
   "lastOpenFiles": [
+    "Core/Chapter 6 ~ Blanket/Inventory.md",
     "Core/Chapter 6 ~ Blanket/Craft.md",
     "Core/Chapter 6 ~ Blanket/Object.md",
-    "Core/Chapter 6 ~ Blanket/Inventory.md",
     "Core/Chapter 6 ~ Blanket/Properties/Flexible.md",
     "Core/Chapter 6 ~ Blanket/Properties/Edible.md",
     "Core/Chapter 6 ~ Blanket/Properties/Soft.md",

@@ -76,43 +76,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "textgenerator/templates/trash/smartConnections/summarize.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 169,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5633333333333334,
-      "characterCount": 1486,
-      "nonWhitespaceCharacterCount": 1235,
-      "readingTimeInMinutes": 0.6377358490566037,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1740591053940,
-      "modifiedDate": 1740591053941,
-      "sizeInBytes": 1697,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5633333333333334,
-        "wordCount": 169,
-        "characterCount": 1486,
-        "nonWhitespaceCharacterCount": 1235
-      },
-      "frontmatter": {
-        "promptId": "summarize",
-        "name": "🗞️Summarize The Results of Smart Connections",
-        "description": "summarize",
-        "author": "Noureddine",
-        "tags": [
-          "smart-connections"
-        ],
-        "version": "0.0.1",
-        "disableProvider": false,
-        "provider": null
-      }
-    },
     "sortspec.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -306,7 +269,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1736523197863,
-      "modifiedDate": 1742590806072,
+      "modifiedDate": 1742591210479,
       "sizeInBytes": 1924,
       "sessionStart": {
         "noteCount": 0,

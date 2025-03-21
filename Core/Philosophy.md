@@ -16,7 +16,7 @@ The idea of [[Thread]] was born of frustration. A system was desired that gives 
 7. Rules should be explicit and written exactly how they are intended to function.
 ## Modularity
 1. All rules should be broken down in to their base components within reason.
-2. All core rules should have minimal dependance on each other within reason.
+2. All core rules should have minimal dependence on each other within reason.
 ## Setting Agnostic
 1. Avoid all biases, flavor text, standards, and tropes.
 2. All rules should be written in a way to allow for any setting or campaign style with little to no modification.

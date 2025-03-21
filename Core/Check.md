@@ -1,5 +1,5 @@
 ---
-Page: 13
+Page: 11
 ---
 # */ tʃɛk /*
 ***Verb*** ~ To make an inquiry into, search through, inspect, or test the performance or condition

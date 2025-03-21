@@ -1,5 +1,5 @@
 ---
-Page: 14
+Page: 12
 ---
 # */ ˈdæm ɪdʒ /*
 ***Noun*** ~ Injury, harm, or loss that reduces value or usefulness

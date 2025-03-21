@@ -8,50 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f3bdc96637f03a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/Travel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Travel"
-            }
-          },
-          {
-            "id": "ba778fedaae7c486",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Core/Paths/Free.md",
-                "bFile": "Core/Paths/Free.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Free"
-            }
-          },
-          {
             "id": "f9fff65f7e599d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Philosophy.md",
+                "file": "Core/Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy"
+              "title": "Inventory"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,32 +165,32 @@
   },
   "active": "f9fff65f7e599d06",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "textgenerator/templates/trash/smartConnections/summarize.md",
-    "Core/Philosophy.md",
-    "Core/Travel.md",
-    "Core/Groups.md",
-    "Core/Clocks.md",
-    "Core/Object.md",
-    "Core/Craft.md",
-    "Core/Inventory.md",
-    "Core/Tile.md",
-    "Core/Light.md",
     "Core/Size.md",
+    "Core/Inventory.md",
     "Core/Area of Effect.md",
-    "Core/Life.md",
-    "Core/Check.md",
-    "Core/Damage.md",
-    "Core/Event.md",
+    "Core/Stamina.md",
+    "Core/Chance.md",
+    "Core/Thread.md",
     "Core/Fall.md",
+    "Core/Point.md",
+    "Core/Disposition.md",
+    "Core/Object.md",
+    "Core/Tile.md",
+    "Core/States/Over the Edge.md",
+    "Core/States/Unconscious.md",
+    "Core/States/Hidden.md",
+    "Core/Philosophy.md",
     "Core/State.md",
     "Core/Path.md",
-    "Core/Action.md",
-    "Core/Stamina.md",
+    "Core/Craft.md",
+    "Core/Light.md",
+    "Core/Event.md",
+    "Core/Life.md",
+    "Core/Damage.md",
+    "Core/Clocks.md",
+    "Core/States/Exhaustion.md",
     "Core/Health.md",
-    "Core/Point.md",
     "Core/Aspect.md",
-    "Core/Deck.md",
     "Core/Properties",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash",

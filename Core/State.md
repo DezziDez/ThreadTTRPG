@@ -1,3 +1,6 @@
+---
+Page: 12
+---
 # */ steɪt /*
 ***Noun*** ~ A condition, status, rank, or position with respect to circumstances or attributes
 # How Did We Get Here?

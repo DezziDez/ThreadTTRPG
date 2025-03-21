@@ -1,6 +1,5 @@
 ---
-Page: 1
-...
+Page: 4
 ---
 # */ˌdɪs pəˈzɪʃ ən /*
 ***Noun*** ~ A person's inherent qualities of mind and character

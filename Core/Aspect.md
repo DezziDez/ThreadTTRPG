@@ -1,6 +1,5 @@
 ---
-Page: 3
-...
+Page: 6
 ---
 # */ ˈæs pɛkt /*
 ***Noun*** ~ A particular appearance or quality

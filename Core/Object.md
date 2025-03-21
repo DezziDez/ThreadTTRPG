@@ -1,3 +1,6 @@
+---
+Page: 24
+---
 # */ ˈɒbʤɪkt /*
 ***Noun*** ~ Anything that is physical, visible, or tangible and is relatively stable in form
 # What Is that?

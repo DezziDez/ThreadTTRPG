@@ -1,9 +1,9 @@
 ---
-sorting-spec: |
-    target-folder: /
-    > a-z
-    target-folder: /Core/*
-    < a-z by-metadata: Page
-    /folders
-    /:files
+sorting-spec: |-
+  target-folder: /
+  > a-z
+  target-folder: /*
+  < a-z by-metadata: Page
+  /:files
+  /folders
 ---

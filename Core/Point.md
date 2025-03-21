@@ -1,6 +1,5 @@
 ---
-Page: 4
-...
+Page: 7
 ---
 # */ pɔɪnt /*
 ***Noun*** ~ A mark or unit of scoring

@@ -1,6 +1,5 @@
 ---
-Page: 2
-...
+Page: 5
 ---
 # *# */ dɛk /**
 ***Noun*** ~ A complete set of 52 playing cards

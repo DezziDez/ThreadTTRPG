@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "af2dde43ea3ee4bd",
+        "id": "51f6b6447d5b9063",
         "type": "tabs",
         "children": [
           {
-            "id": "583eb6bf946358fb",
+            "id": "3f01c222fdae61a2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Core/Properties/Impactful.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "717e2f3a18c67740",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Core/Chapter 7 ~ Dye/Clocks.md",
-                "bFile": "Core/Chapter 7 ~ Dye/Clocks.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Clocks"
+              "icon": "lucide-file",
+              "title": "Impactful"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,43 +163,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74886e19589ec41a",
+  "active": "68c9460064a8d019",
   "lastOpenFiles": [
-    "Core/Chapter 7 ~ Dye/Groups.md",
-    "Core/Chapter 7 ~ Dye/Travel.md",
-    "textgenerator/templates/trash/smartConnections/summarize.md",
+    "Core/Properties/Intimidating.md",
+    "Core/Properties/Impactful.md",
+    "Core/Properties/Accurate.md",
+    "Core/Properties/Complex.md",
+    "Core/Properties/Simple.md",
+    "Core/Damage.md",
+    "Core/Properties/Powerful.md",
+    "Core/Properties/Tuned.md",
+    "Core/Properties/Acoustic.md",
+    "Core/Properties/Compact.md",
+    "Core/Properties/Heavy.md",
+    "Core/Properties/Untitled",
+    "Core/Properties/Light.md",
+    "Core/Properties/Balanced.md",
+    "Core/Properties/Sharp.md",
+    "Core/Properties/Sturdy.md",
+    "Core/Properties/Soft.md",
+    "Core/Properties/Edible.md",
+    "Core/Properties/Flexible.md",
+    "Core/Properties/Hard.md",
+    "Core/Properties/Reenforced.md",
+    "Core/Inventory.md",
+    "Core/Paths/Shift.md",
+    "Core/Paths/Attack.md",
+    "Core/Paths/Chat.md",
+    "Core/Paths/Crafter.md",
+    "Core/Paths/Dodge.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash",
     "textgenerator/templates",
     "textgenerator",
-    "Core/Chapter 6 ~ Blanket/Inventory.md",
-    "Core/Chapter 6 ~ Blanket/Craft.md",
     "Core/Chapter 6 ~ Blanket",
-    "Core/Chapter 7 ~ Dye/Clocks.md",
     "Core/Chapter 7 ~ Dye",
-    "conflict-files-obsidian-git.md",
-    "Core/Travel.md",
-    "Core/Tile.md",
-    "Core/Thread.md",
-    "Core/TTRPG.md",
-    "Core/States/Unconscious.md",
-    "Core/States/Slowed.md",
-    "Core/States/Senseless.md",
-    "Core/States/Pain {Multi}.md",
-    "Core/States/Resistance {Multi}.md",
-    "Core/States/Restrained.md",
-    "Core/States/Over the Edge.md",
-    "Core/States/Hidden.md",
-    "Core/States/Exhaustion.md",
     "Core/States",
-    "Core/State.md",
-    "Core/Stamina.md",
-    "Core/Size.md",
-    "Core/Properties/Soft.md",
-    "Core/Properties/Sturdy.md",
-    "Core/Properties/Hard.md",
     "Core/Properties",
-    "Core/Paths",
-    "Core/Chapter 6 ~ Blanket/Properties"
+    "Core/Paths"
   ]
 }

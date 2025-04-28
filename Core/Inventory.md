@@ -7,7 +7,7 @@ Page: 22
 # Got Any Snacks?
 All [[TTRPG#Characters|Characters]] have an Inventory which describes what [[Object|Objects]] they have Stored or Equipped.
 # Stored
-A Character can Store an amount of [[Size#Bulk|Bulk]] worth of Objects on themselves equal to one Size Category lower than themselves. Which is half the Bulk of the Character.
+A Character can Store an amount of [[Size#Bulk|Bulk]] worth of Objects on themselves equal to one Size Category lower than themselves. Which is half the Bulk of the Character. It is assumed that a Character knows how to store an Object on themselves within their clothes or bags.
 
 > [!Example]
 > If a Character is Medium Sized, then they can store 4 Bulk worth of Objects.

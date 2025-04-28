@@ -1,6 +1,6 @@
 - [ ] Play Styles guides
 - [ ] Make SVG logos and art
-- [ ] Crafting Mechanics
+- [x] Crafting Mechanics
 - [ ] Combine social and physical combat in to one system
 - [x] HP and Stamina use 2 different stats for balance 
       (Stamina = Mind + Spirit) (HP = Body + Luck)

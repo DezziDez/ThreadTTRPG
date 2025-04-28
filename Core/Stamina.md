@@ -1,6 +1,5 @@
 ---
-Page: 6
-...
+Page: 9
 ---
 # */ ˈstæm ə nə /*
 ***Noun*** ~ Physical strength, the power to endure, the will to push forward

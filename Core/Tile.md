@@ -1,7 +1,10 @@
+---
+Page: 16
+---
 # */ taɪl /*
 ***Noun*** ~ An individual building unit to comprise a surface
 # Watch Your Step
-Tiles in [[Thread]] represent a single unit of measurement for determining distance, [[Size]], or movement. Tiles can be fractional such as 1/2 Tiles or 1/4 Tiles.
+Tiles represent a single unit of measurement for determining distance, [[Size]], or movement. Tiles can be fractional such as 1/2 Tiles or 1/4 Tiles.
 # Measure
 A Tile for the purposes of scaling and math is equal to 1 meter or 3 feet.
 # Spaces

@@ -1,6 +1,5 @@
 ---
-Page: 4
-...
+Page: 7
 ---
 # */ pɔɪnt /*
 ***Noun*** ~ A mark or unit of scoring
@@ -14,4 +13,5 @@ Generally, at least 1 Experience should be awarded to each Character at the end 
 After a Full-Rest a Character may convert 10 Experience in to 1 Unspent Point. Unspent Points may then be spent on other parts of the Character.
 # Spent Points
 The number of Spent Points a Character has can be used to quickly determine how powerful a Character is. This can be used for balancing [[Event|Events]] with other Characters or just as a quick representation of Character growth.
-# Point Scales
+# Power Scales
+A single Point is generally valued at 1/13th the maximum value it is representing. When creating Paths or other parts of Thread. It is advised to imagine 13 steps from beginning to end even if there are not 13 total steps.

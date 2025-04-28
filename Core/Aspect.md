@@ -1,6 +1,5 @@
 ---
-Page: 3
-...
+Page: 6
 ---
 # */ ˈæs pɛkt /*
 ***Noun*** ~ A particular appearance or quality
@@ -14,3 +13,5 @@ The part of any Character that thinks is its Mind. This Aspect gives insight int
 Whenever a Character is using their will power or focusing on emotions, they are using their Spirit. This Aspect is primarily used for empathy and social situations.
 ## ♣ Luck
 Any Character that is Lucky or has fate on their side has a high Luck. This Aspect is generally used when all else fails or when the Character needs things to go just right.
+# Rest
+To consolidate knowledge and strength gained, a Character must complete a [[Life#Full-Rest|Full-Rest]] to spend Points on Aspects.

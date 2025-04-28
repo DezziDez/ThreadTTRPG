@@ -1,3 +1,6 @@
+---
+Page: 12
+---
 # */ ˈdæm ɪdʒ /*
 ***Noun*** ~ Injury, harm, or loss that reduces value or usefulness
 # Who Hurt You?

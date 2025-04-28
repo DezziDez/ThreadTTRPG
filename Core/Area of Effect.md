@@ -1,3 +1,6 @@
+---
+Page: 18
+---
 # / ˈɛriə ʌv ɪˈfɛkt /
 ***Noun*** ~ An effect that affects everything within a specified range of the target place or character
 # Explosion!

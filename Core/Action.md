@@ -1,3 +1,6 @@
+---
+Page: 10
+---
 # */ ˈæk ʃən /*
 ***Noun*** ~ An exertion of power, force, effect, or influence
 # You Have The Power

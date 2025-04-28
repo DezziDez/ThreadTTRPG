@@ -1,6 +1,5 @@
 ---
-Page: 5
-...
+Page: 8
 ---
 # */ hɛlθ /*
 ***Noun*** ~ The general condition of the body with reference to soundness and vigor
@@ -14,3 +13,7 @@ A Character's Maximum Health value is calculated by adding the [[Point|Points]] 
 Whenever a Character reaches 0 or less remaining Health. They gain the [[Over the Edge]] [[State]].
 ## Death
 Whenever a Character has an amount of negative Health greater than the Character's Maximum Health, that Character Dies.
+# Healing
+Some [[Action|Actions]] or [[Object|Objects]] allow Characters to regain Health.
+A [[Life#Full-Rest|Full-Rest]] allows a Character to regain an amount of Health equal to their Body Aspect.
+A [[Life#Half-Rest|Half-Rest]] allows a Character to regain 2 Health.

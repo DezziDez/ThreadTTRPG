@@ -2,7 +2,7 @@
 Page: 22
 ---
 # */ ˌɪnvənˈtɔri /*
-***Noun*** ~ A detailed, often descriptive, list of objects or items.
+***Noun*** ~ A detailed, often descriptive, list of objects or items
 
 # Got Any Snacks?
 All [[TTRPG#Characters|Characters]] have an Inventory which describes what [[Object|Objects]] they have Stored or Equipped.

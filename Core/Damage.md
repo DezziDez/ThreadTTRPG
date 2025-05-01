@@ -35,4 +35,4 @@ Damage that occurs due to changes in temperature.
 >- Burning
 >- Freezing
 # Unavoidable
-Damage that is Unavoidable cannot be [[Dodge|Dodged]].
+Damage that is Unavoidable cannot be [[Evasion|Dodged]].

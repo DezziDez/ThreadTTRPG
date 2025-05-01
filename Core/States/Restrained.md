@@ -2,7 +2,7 @@
 ***Adjective*** ~ Prevented or limited from doing or having effect
 
 - Lose the ability to use one limb such as a leg, arm, head, or other body part for each [[State#Stacking|Stack]] of this [[State]].
-- Any action that requires the restrained limb is not possible.
+- Any [[Action]] that requires the restrained limb is not possible.
 
 >[!Example] Examples
 >- Having a leg restrained gives you 1 Stack of [[Slowed]], while having both legs restrained would give you 2 etc.

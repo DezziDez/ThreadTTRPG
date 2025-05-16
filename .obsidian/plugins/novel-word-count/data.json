@@ -76,34 +76,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "sortspec.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739975929585,
-      "modifiedDate": 1745969280689,
-      "sizeInBytes": 119,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 1,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "sorting-spec": "target-folder: /\n> a-z\ntarget-folder: /*\n< a-z by-metadata: Page\n/:files\n/folders"
-      }
-    },
     "README.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -125,7 +97,7 @@
         "noteCount": 1,
         "pageCount": 0.006666666666666667,
         "wordCount": 2,
-        "characterCount": 19,
+        "characterCount": 18,
         "nonWhitespaceCharacterCount": 16
       }
     },
@@ -179,7 +151,7 @@
         "nonWhitespaceCharacterCount": 13131
       }
     },
-    "Core/Travel.md": {
+    "sortspec.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -193,9 +165,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745868815769,
-      "modifiedDate": 1745878755476,
-      "sizeInBytes": 17,
+      "createdDate": 1739975929585,
+      "modifiedDate": 1745969280689,
+      "sizeInBytes": 119,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -204,7 +176,7 @@
         "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
-        "Page": 82
+        "sorting-spec": "target-folder: /\n> a-z\ntarget-folder: /*\n< a-z by-metadata: Page\n/:files\n/folders"
       }
     },
     "Core/TTRPG.md": {
@@ -233,6 +205,62 @@
       },
       "frontmatter": {
         "Page": 2
+      }
+    },
+    "Core/Travel.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815769,
+      "modifiedDate": 1745878755476,
+      "sizeInBytes": 17,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "Page": 82
+      }
+    },
+    "Core/Point.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 216,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.72,
+      "characterCount": 1383,
+      "nonWhitespaceCharacterCount": 1157,
+      "readingTimeInMinutes": 0.8150943396226416,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815764,
+      "modifiedDate": 1745974959317,
+      "sizeInBytes": 1400,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.72,
+        "wordCount": 216,
+        "characterCount": 1383,
+        "nonWhitespaceCharacterCount": 1157
+      },
+      "frontmatter": {
+        "Page": 7
       }
     },
     "Core/Thread.md": {
@@ -387,8 +415,33 @@
         "noteCount": 1,
         "pageCount": 0.37,
         "wordCount": 111,
-        "characterCount": 708,
-        "nonWhitespaceCharacterCount": 586
+        "characterCount": 712,
+        "nonWhitespaceCharacterCount": 590
+      }
+    },
+    "Core/States/Over the Edge.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 268,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815766,
+      "modifiedDate": 1745878763093,
+      "sizeInBytes": 274,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 268,
+        "nonWhitespaceCharacterCount": 223
       }
     },
     "Core/States/Resistance {Multi}.md": {
@@ -439,31 +492,6 @@
         "wordCount": 42,
         "characterCount": 348,
         "nonWhitespaceCharacterCount": 296
-      }
-    },
-    "Core/States/Over the Edge.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 268,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.1471698113207547,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815766,
-      "modifiedDate": 1745878763093,
-      "sizeInBytes": 274,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 268,
-        "nonWhitespaceCharacterCount": 223
       }
     },
     "Core/States/Hidden.md": {
@@ -572,34 +600,6 @@
         "Page": 9
       }
     },
-    "Core/Size.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 223,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7433333333333333,
-      "characterCount": 1665,
-      "nonWhitespaceCharacterCount": 1262,
-      "readingTimeInMinutes": 0.8415094339622642,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815765,
-      "modifiedDate": 1745970518276,
-      "sizeInBytes": 1683,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7433333333333333,
-        "wordCount": 223,
-        "characterCount": 1665,
-        "nonWhitespaceCharacterCount": 1262
-      },
-      "frontmatter": {
-        "Page": 17
-      }
-    },
     "Core/Properties/Tuned.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -650,7 +650,7 @@
         "nonWhitespaceCharacterCount": 114
       }
     },
-    "Core/Properties/Sharp.md": {
+    "Core/Properties/Impactful.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -664,33 +664,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745870542322,
-      "modifiedDate": 1745870542322,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Properties/Simple.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745870830774,
-      "modifiedDate": 1745870830774,
+      "createdDate": 1745870877105,
+      "modifiedDate": 1745870877105,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -725,7 +700,32 @@
         "nonWhitespaceCharacterCount": 138
       }
     },
-    "Core/Properties/Light.md": {
+    "Core/Properties/Simple.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745870830774,
+      "modifiedDate": 1745870830774,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Properties/Heavy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -740,7 +740,32 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1745870542322,
-      "modifiedDate": 1745870566276,
+      "modifiedDate": 1745870575592,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Properties/Sharp.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745870542322,
+      "modifiedDate": 1745870542322,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -800,32 +825,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Core/Properties/Impactful.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745870877105,
-      "modifiedDate": 1745870877105,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Properties/Heavy.md": {
+    "Core/Properties/Light.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -840,7 +840,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1745870542322,
-      "modifiedDate": 1745870575592,
+      "modifiedDate": 1745870566276,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -900,29 +900,29 @@
         "nonWhitespaceCharacterCount": 130
       }
     },
-    "Core/Properties/Edible.md": {
+    "Core/Properties/Balanced.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 16,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 115,
-      "nonWhitespaceCharacterCount": 100,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 3,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745868815764,
-      "modifiedDate": 1745868815764,
-      "sizeInBytes": 115,
+      "createdDate": 1745870542322,
+      "modifiedDate": 1745870555839,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 115,
-        "nonWhitespaceCharacterCount": 100
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Core/Properties/Flexible.md": {
@@ -950,6 +950,31 @@
         "nonWhitespaceCharacterCount": 59
       }
     },
+    "Core/Properties/Edible.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 100,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815764,
+      "modifiedDate": 1745868815764,
+      "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 115,
+        "nonWhitespaceCharacterCount": 100
+      }
+    },
     "Core/Properties/Compact.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -966,31 +991,6 @@
       "aliases": null,
       "createdDate": 1745870523504,
       "modifiedDate": 1745870523504,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Properties/Balanced.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745870542322,
-      "modifiedDate": 1745870555839,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -1050,32 +1050,32 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Core/Point.md": {
+    "Core/Size.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 216,
+      "wordCount": 223,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.72,
-      "characterCount": 1383,
-      "nonWhitespaceCharacterCount": 1157,
-      "readingTimeInMinutes": 0.8150943396226416,
-      "linkCount": 7,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 1665,
+      "nonWhitespaceCharacterCount": 1262,
+      "readingTimeInMinutes": 0.8415094339622642,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745868815764,
-      "modifiedDate": 1745974959317,
-      "sizeInBytes": 1400,
+      "createdDate": 1745868815765,
+      "modifiedDate": 1745970518276,
+      "sizeInBytes": 1683,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.72,
-        "wordCount": 216,
-        "characterCount": 1383,
-        "nonWhitespaceCharacterCount": 1157
+        "pageCount": 0.7433333333333333,
+        "wordCount": 223,
+        "characterCount": 1665,
+        "nonWhitespaceCharacterCount": 1262
       },
       "frontmatter": {
-        "Page": 7
+        "Page": 17
       }
     },
     "Core/Philosophy.md": {
@@ -1106,6 +1106,334 @@
         "Page": 99
       }
     },
+    "Core/Light.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 171,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.57,
+      "characterCount": 1061,
+      "nonWhitespaceCharacterCount": 879,
+      "readingTimeInMinutes": 0.6452830188679245,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815761,
+      "modifiedDate": 1745969348305,
+      "sizeInBytes": 1078,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.57,
+        "wordCount": 171,
+        "characterCount": 1061,
+        "nonWhitespaceCharacterCount": 879
+      },
+      "frontmatter": {
+        "Page": 19
+      }
+    },
+    "Core/Paths/Swordsman.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746142750239,
+      "modifiedDate": 1746142750239,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Negotiator.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815762,
+      "modifiedDate": 1745868815762,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Grappler.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815763,
+      "modifiedDate": 1745868815763,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Porter.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745870285414,
+      "modifiedDate": 1745870285414,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Patient.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815763,
+      "modifiedDate": 1745868815763,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Lucky.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746142457238,
+      "modifiedDate": 1746142498969,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Luckless.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746142457238,
+      "modifiedDate": 1746142503893,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Agile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815763,
+      "modifiedDate": 1745868815763,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Healer.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815763,
+      "modifiedDate": 1745868815763,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Gunslinger.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746142457238,
+      "modifiedDate": 1746142457238,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Brawler.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746142619148,
+      "modifiedDate": 1746142619148,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Core/Paths/Archer.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746142457238,
+      "modifiedDate": 1746142482117,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Core/Path.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1132,31 +1460,6 @@
       },
       "frontmatter": {
         "Page": 24
-      }
-    },
-    "Core/Paths/Porter.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745870285414,
-      "modifiedDate": 1745870285414,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Core/Object.md": {
@@ -1187,34 +1490,6 @@
         "Page": 21
       }
     },
-    "Core/Light.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 171,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.57,
-      "characterCount": 1061,
-      "nonWhitespaceCharacterCount": 879,
-      "readingTimeInMinutes": 0.6452830188679245,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815761,
-      "modifiedDate": 1745969348305,
-      "sizeInBytes": 1078,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.57,
-        "wordCount": 171,
-        "characterCount": 1061,
-        "nonWhitespaceCharacterCount": 879
-      },
-      "frontmatter": {
-        "Page": 19
-      }
-    },
     "Core/Life.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1241,6 +1516,34 @@
       },
       "frontmatter": {
         "Page": 13
+      }
+    },
+    "Core/Fall.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 146,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 961,
+      "nonWhitespaceCharacterCount": 804,
+      "readingTimeInMinutes": 0.5509433962264151,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815760,
+      "modifiedDate": 1745969364081,
+      "sizeInBytes": 980,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4866666666666667,
+        "wordCount": 146,
+        "characterCount": 961,
+        "nonWhitespaceCharacterCount": 804
+      },
+      "frontmatter": {
+        "Page": 20
       }
     },
     "Core/Inventory.md": {
@@ -1327,34 +1630,6 @@
         "Page": 81
       }
     },
-    "Core/Fall.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 146,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4866666666666667,
-      "characterCount": 961,
-      "nonWhitespaceCharacterCount": 804,
-      "readingTimeInMinutes": 0.5509433962264151,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815760,
-      "modifiedDate": 1745969364081,
-      "sizeInBytes": 980,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4866666666666667,
-        "wordCount": 146,
-        "characterCount": 961,
-        "nonWhitespaceCharacterCount": 804
-      },
-      "frontmatter": {
-        "Page": 20
-      }
-    },
     "Core/Event.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1381,34 +1656,6 @@
       },
       "frontmatter": {
         "Page": 15
-      }
-    },
-    "Core/Disposition.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 216,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.72,
-      "characterCount": 1488,
-      "nonWhitespaceCharacterCount": 1232,
-      "readingTimeInMinutes": 0.8150943396226416,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815760,
-      "modifiedDate": 1745974998187,
-      "sizeInBytes": 1530,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.72,
-        "wordCount": 216,
-        "characterCount": 1488,
-        "nonWhitespaceCharacterCount": 1232
-      },
-      "frontmatter": {
-        "Page": 5
       }
     },
     "Core/Deck.md": {
@@ -1460,39 +1707,39 @@
         "noteCount": 1,
         "pageCount": 0.39666666666666667,
         "wordCount": 119,
-        "characterCount": 911,
-        "nonWhitespaceCharacterCount": 765
+        "characterCount": 913,
+        "nonWhitespaceCharacterCount": 767
       },
       "frontmatter": {
         "Page": 12
       }
     },
-    "Core/Craft.md": {
+    "Core/Disposition.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 348,
+      "wordCount": 216,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.16,
-      "characterCount": 2059,
-      "nonWhitespaceCharacterCount": 1697,
-      "readingTimeInMinutes": 1.3132075471698113,
-      "linkCount": 6,
+      "pageCount": 0.72,
+      "characterCount": 1488,
+      "nonWhitespaceCharacterCount": 1232,
+      "readingTimeInMinutes": 0.8150943396226416,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745868815759,
-      "modifiedDate": 1745870033606,
-      "sizeInBytes": 2076,
+      "createdDate": 1745868815760,
+      "modifiedDate": 1745974998187,
+      "sizeInBytes": 1530,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.16,
-        "wordCount": 348,
-        "characterCount": 2059,
-        "nonWhitespaceCharacterCount": 1697
+        "pageCount": 0.72,
+        "wordCount": 216,
+        "characterCount": 1488,
+        "nonWhitespaceCharacterCount": 1232
       },
       "frontmatter": {
-        "Page": 23
+        "Page": 5
       }
     },
     "Core/Clocks.md": {
@@ -1523,32 +1770,60 @@
         "Page": 80
       }
     },
-    "Core/Check.md": {
+    "Core/Aspect.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 358,
+      "wordCount": 186,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1933333333333334,
-      "characterCount": 2971,
-      "nonWhitespaceCharacterCount": 2194,
-      "readingTimeInMinutes": 1.350943396226415,
-      "linkCount": 12,
+      "pageCount": 0.62,
+      "characterCount": 1180,
+      "nonWhitespaceCharacterCount": 966,
+      "readingTimeInMinutes": 0.7018867924528301,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1745868815758,
-      "modifiedDate": 1745972743647,
-      "sizeInBytes": 2995,
+      "modifiedDate": 1745868815758,
+      "sizeInBytes": 1208,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.1933333333333334,
-        "wordCount": 358,
-        "characterCount": 2971,
-        "nonWhitespaceCharacterCount": 2194
+        "pageCount": 0.62,
+        "wordCount": 186,
+        "characterCount": 1180,
+        "nonWhitespaceCharacterCount": 966
       },
       "frontmatter": {
-        "Page": 11
+        "Page": 6
+      }
+    },
+    "Core/Craft.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 348,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.16,
+      "characterCount": 2059,
+      "nonWhitespaceCharacterCount": 1697,
+      "readingTimeInMinutes": 1.3132075471698113,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745868815759,
+      "modifiedDate": 1745870033606,
+      "sizeInBytes": 2076,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.16,
+        "wordCount": 348,
+        "characterCount": 2059,
+        "nonWhitespaceCharacterCount": 1697
+      },
+      "frontmatter": {
+        "Page": 23
       }
     },
     "Core/Chance.md": {
@@ -1579,32 +1854,32 @@
         "Page": 3
       }
     },
-    "Core/Aspect.md": {
+    "Core/Check.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 186,
+      "wordCount": 358,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.62,
-      "characterCount": 1180,
-      "nonWhitespaceCharacterCount": 966,
-      "readingTimeInMinutes": 0.7018867924528301,
-      "linkCount": 3,
+      "pageCount": 1.1933333333333334,
+      "characterCount": 2971,
+      "nonWhitespaceCharacterCount": 2194,
+      "readingTimeInMinutes": 1.350943396226415,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1745868815758,
-      "modifiedDate": 1745868815758,
-      "sizeInBytes": 1208,
+      "modifiedDate": 1745972743647,
+      "sizeInBytes": 2995,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.62,
-        "wordCount": 186,
-        "characterCount": 1180,
-        "nonWhitespaceCharacterCount": 966
+        "pageCount": 1.1933333333333334,
+        "wordCount": 358,
+        "characterCount": 2971,
+        "nonWhitespaceCharacterCount": 2194
       },
       "frontmatter": {
-        "Page": 6
+        "Page": 11
       }
     },
     "Core/Area of Effect.md": {
@@ -1654,307 +1929,32 @@
       "sizeInBytes": 1515,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.57,
-        "wordCount": 171,
-        "characterCount": 1094,
-        "nonWhitespaceCharacterCount": 911
+        "pageCount": 0.7566666666666667,
+        "wordCount": 227,
+        "characterCount": 1495,
+        "nonWhitespaceCharacterCount": 1249
       },
       "frontmatter": {
         "Page": 10
       }
     },
-    "Core/Paths/Patient.md": {
+    "Core/Paths/Dodge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 239,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815763,
-      "modifiedDate": 1745868815763,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Evasion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 276,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.92,
-      "characterCount": 1646,
-      "nonWhitespaceCharacterCount": 1353,
-      "readingTimeInMinutes": 1.0415094339622641,
+      "pageCount": 0.7966666666666666,
+      "characterCount": 1488,
+      "nonWhitespaceCharacterCount": 1232,
+      "readingTimeInMinutes": 0.9018867924528302,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1745868815762,
-      "modifiedDate": 1746139895532,
-      "sizeInBytes": 1651,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Agile.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815763,
-      "modifiedDate": 1745868815763,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Healer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815763,
-      "modifiedDate": 1745868815763,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Gunslinger.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746142457238,
-      "modifiedDate": 1746142457238,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Archer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746142457238,
-      "modifiedDate": 1746142482117,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Lucky.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746142457238,
-      "modifiedDate": 1746142498969,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Luckless.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746142457238,
-      "modifiedDate": 1746142503893,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Grappler.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815763,
-      "modifiedDate": 1745868815763,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Brawler.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746142619148,
-      "modifiedDate": 1746142619148,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Swordsman.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746142750239,
-      "modifiedDate": 1746142750239,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Core/Paths/Negotiator.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745868815762,
-      "modifiedDate": 1745868815762,
-      "sizeInBytes": 0,
+      "createdDate": 1747434065912,
+      "modifiedDate": 1747435283657,
+      "sizeInBytes": 1490,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

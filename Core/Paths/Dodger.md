@@ -1,5 +1,5 @@
-# */ dɑʤ /*
-***Verb*** ~ To move aside, change position suddenly, elude, or evade.
+# */ ˈdɑʤər /*
+***Noun*** ~ A person who performs a quick, evasive movement, as a sudden jump away to avoid a blow
 
 # 1 Point
 Whenever you take [[Damage#Physical|Physical Damage]], you may take the Dodge [[Action]].
@@ -15,7 +15,7 @@ Whenever you Dodge, you avoid 1 Physical Damage for every 3 [[Stamina]] you expe
 # 2 Points
 Dodge now allows you to avoid 1 Physical Damage for every 2 Stamina expended.
 # 3 Points
-Dodge no longer requires the cost of [[Deck#Discard|Discarding]] a Card.
+Dodge no longer requires the Cost of [[Deck#Discard|Discarding]] a Card.
 # 4 Points
 Dodge now allows you to avoid 1 Physical Damage for every 1 Stamina expended.
 # 5 Points

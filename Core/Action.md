@@ -16,12 +16,17 @@ Continuous Actions can be ended at any time by the Character at no cost.
 Unless noted otherwise, using an Action allows a Character to perform a Step and move 1 [[Tile]] in any direction they can access immediately before or immediately after the Action occurs.
 # Quick Actions
 Any Action can be performed as a Quick Action outside the Character's [[Event#Turns|Turn]]. Doing so requires twice The Cost of a regular use of the Action.
+# Interruption
+Actions cannot be taken on top of each other unless otherwise stated. If an Action is made when another Action has not been completed, the uncompleted Action is ended and the Cost of that Action is still spent.
 # Free Action
-A Free [[Action]] is any small and fast Action that still has some significance.
+A Free [[Action]] is any small and fast Action that still has some significance. All Characters have 1 Free Action they can use at any time during a [[Event#Rounds|Round]]. Additional Free Actions Cost 1 Stamina.
+
+Free Actions do not allow a Character to take an extra Step like other Actions.
+Free Actions do not Interrupt other Actions.
 >[!Examples]
 >- Equipping or Unequipping an [[Object]]
 >- Studying another [[TTRPG#Characters|Character]] to gain information.
->- Taking a Step. (This also triggers a Step allowing you to move 2 [[Tile|Tiles]] total)
+>- Taking a Step.
 >- Using an Object.
 >- Reloading a Ranged Weapon.
 >- A quick shout to another Character.

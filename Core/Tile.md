@@ -6,7 +6,7 @@ Page: 16
 # Watch Your Step
 Tiles represent a single unit of measurement for determining distance, [[Size]], or movement. Tiles can be fractional such as 1/2 Tiles or 1/4 Tiles.
 # Measure
-A Tile for the purposes of scaling and math is equal to 1 meter or 3 feet.
+A Tile for the purposes of scaling and other calculations is equal to 1 meter or 3 feet.
 # Spaces
 A Space is a unit of rough distance away from a target, such as a [[TTRPG#Characters|Character]]. The amount of Tiles each Space has as a maximum is equal to twice the number of Tiles in the previous Space.
 

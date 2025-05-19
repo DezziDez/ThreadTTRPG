@@ -29,7 +29,7 @@
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
-  "diffStyle": "split",
+  "diffStyle": "git_unified",
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",

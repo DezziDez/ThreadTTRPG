@@ -5,7 +5,7 @@
 - [x] HP and Stamina use 2 different stats for balance 
       (Stamina = Mind + Spirit) (HP = Body + Luck)
 - [ ] Make Rules Cards and Measuring templates
-- [ ] All Paths are scaling Paths / Paths tracks.
+- [x] All Paths are scaling Paths / Paths tracks.
 - [x] Rename perks to Paths
 - [x] Everything, including aspects, costs 1 point
 - [x] Resting for all rules

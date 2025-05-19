@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Paths/Attack/Brawler.md",
+                "file": "Core/Thread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brawler"
+              "title": "Thread"
             }
           }
         ]
@@ -163,8 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68c9460064a8d019",
+  "active": "a96bf7ff7204217f",
   "lastOpenFiles": [
+    "sortspec.md",
+    "Core/Thread.md",
+    "Core/Paths/Attack/Brawler.md",
     "Core/Paths/Body/Agile.md",
     "Core/Paths/Body/Dodger.md",
     "Core/Paths/Body/Porter.md",
@@ -193,10 +196,7 @@
     "Core/Tile.md",
     "Core/Damage.md",
     "Core/Paths/Evasion.md",
-    "Core/Paths/Attack/Brawler.md",
     "Core/Life.md",
-    "Notes.md",
-    "Core/Properties/Soft.md",
     "Core/Properties/Untitled",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash",

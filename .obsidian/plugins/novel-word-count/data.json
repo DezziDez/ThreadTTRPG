@@ -101,34 +101,6 @@
         "nonWhitespaceCharacterCount": 16
       }
     },
-    "sortspec.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739975929585,
-      "modifiedDate": 1745969280689,
-      "sizeInBytes": 119,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 1,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "sorting-spec": "target-folder: /\n> a-z\ntarget-folder: /*\n< a-z by-metadata: Page\n/:files\n/folders"
-      }
-    },
     "Notes.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -271,15 +243,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.7133333333333334,
-      "characterCount": 1293,
+      "characterCount": 1277,
       "nonWhitespaceCharacterCount": 1052,
       "readingTimeInMinutes": 0.8075471698113208,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1745868815768,
-      "modifiedDate": 1745868815768,
-      "sizeInBytes": 1317,
+      "modifiedDate": 1747696789475,
+      "sizeInBytes": 1298,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7133333333333334,

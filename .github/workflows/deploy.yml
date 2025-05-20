@@ -31,7 +31,6 @@ jobs:
             mkdocs-awesome-nav \
             pymdown-extensions>=10.0 \
             markdown-full-yaml-metadata \
-            mkdocs-backlinks-section-plugin \
             mkdocs-publisher
             
 

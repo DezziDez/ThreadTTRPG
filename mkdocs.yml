@@ -75,7 +75,6 @@ markdown_extensions:
 plugins:
   - search
   - awesome-nav
-  - backlinks_section
   - pub-obsidian:
         backlinks:
             enabled: false

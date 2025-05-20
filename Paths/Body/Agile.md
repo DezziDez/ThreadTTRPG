@@ -5,7 +5,7 @@
 ***Adjective*** ~ Quick and well-coordinated in movement
 
 # 1 Point
-You may take the Dash [[Action]]. Whenever you Dash, you expend 4 [[Stamina]] and take 5 [[Action#Step|Steps]].
+You may take the Dash [Action](Action.md). Whenever you Dash, you expend 4 [[Stamina]] and take 5 [[Action#Step|Steps]].
 # 2 Points
 You may take the Leap Action. Whenever you Leap, you expend 4 Stamina and cover a distance of 2 [[Tile|Tiles]]. This distance can either be made vertically or horizontally. You must have at least 1/2 Tiles of space to Leap from and land on to, which does not count towards the amount of distance covered.
 # 3 Points

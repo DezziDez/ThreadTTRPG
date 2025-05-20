@@ -65,7 +65,6 @@ markdown_extensions:
   - def_list
   - attr_list
   - md_in_html
-  - meta
   - toc:
         permalink: true
         baselevel: 2

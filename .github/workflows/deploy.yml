@@ -30,8 +30,7 @@ jobs:
             mkdocs-material \
             mkdocs-awesome-nav \
             pymdown-extensions>=10.0 \
-            markdown-full-yaml-metadata \
-            mkdocs-publisher
+            markdown-full-yaml-metadata
 
       # Step 4: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages

@@ -13,6 +13,7 @@ Thread is designed without any settings in mind. Prioritizing story telling and 
 Thread's core rules were designed to be open source and free to use by anyone for any purpose. Thread is written in Markdown and all files to host a duplicate single page document are included in the Git repository.
 # Navigation
 This system and its pages can be viewed and navigated in multiple ways.
+
 1. Thread is built to include links to other relevant pages. Using these links can allow someone to move through the document in any order they wish.
 2. The document itself can be scrolled through continuously like any other documentation.
 3. There is a search function implemented into the document that allows for quick and easy access to specific information.

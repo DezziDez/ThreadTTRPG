@@ -78,8 +78,8 @@ plugins:
   - tags:
         export_only: true
   - pub-obsidian
-    backlinks:
-        enabled: false
+        backlinks:
+            enabled: false
 # Source directory (where your markdown files are)
 docs_dir: .site_content
 

@@ -77,7 +77,7 @@ plugins:
   - awesome-pages
   - tags:
         export_only: true
-  - pub-obsidian
+  - pub-obsidian:
         backlinks:
             enabled: false
 # Source directory (where your markdown files are)

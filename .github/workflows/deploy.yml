@@ -36,16 +36,12 @@ jobs:
       # Step 4: Filter files and copy to temporary directory
       - name: Filter and Copy Public Notes
         run: |
-          mkdir -p .site_content
-          # Define excluded folders that should never be published
-          EXCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
-          
+          mkdir -p .site_content   
           find . -type f -exec grep -l "share: true" {} \; | while IFS= read -r file; do
               cp --parents "$file" .site_content/ || true
           done
           cp index.md .site_content/ || true
           cp .overrides .site_content/ || true
-          echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
 
       # Step 5: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages

@@ -34,11 +34,6 @@ theme:
         name: Switch to light mode
   # Custom color settings
   custom_dir: .overrides
-  
-nav:
- # this will generate the nav dynamically
-  - ... 
- # The index.md file is the home page from the `docs` folder
  
 markdown_extensions:
   - pymdownx.magiclink:
@@ -60,7 +55,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - nl2br
   - admonition
-  - meta
   - tables
   - footnotes
   - def_list
@@ -76,6 +70,7 @@ plugins:
   - search
   - awesome-pages
   - pub-obsidian
+  - pub-meta
   
 # Source directory (where your markdown files are)
 docs_dir: .site_content

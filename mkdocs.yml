@@ -56,7 +56,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-      baselevel: 1
+      baselevel: 2
       toc_depth: 3
       separator: "-"
   - def_list
@@ -79,6 +79,8 @@ plugins:
         export_only: true
   - pub-obsidian:
         backlinks:
+            enabled: false
+        callouts:
             enabled: false
 # Source directory (where your markdown files are)
 docs_dir: .site_content

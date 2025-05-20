@@ -63,6 +63,7 @@ markdown_extensions:
   - def_list
   - attr_list
   - md_in_html
+  - mdx_wikilink_plus
   - toc:
         permalink: true
         baselevel: 2
@@ -74,9 +75,6 @@ plugins:
   - awesome-pages
   - tags:
         export_only: true
-  - pub-obsidian:
-        backlinks:
-            enabled: false
 # Source directory (where your markdown files are)
 docs_dir: .site_content
 

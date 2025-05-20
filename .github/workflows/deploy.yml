@@ -30,6 +30,7 @@ jobs:
             mkdocs-material \
             mkdocs-awesome-nav \
             pymdown-extensions>=10.0 \
+            markdown-full-yaml-metadata \
             mkdocs-publisher
             
 

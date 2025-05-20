@@ -34,11 +34,6 @@ theme:
         name: Switch to light mode
   # Custom color settings
   custom_dir: .overrides
-  
-nav:
- # this will generate the nav dynamically
-  - ... 
- # The index.md file is the home page from the `docs` folder
  
 markdown_extensions:
   - pymdownx.magiclink:

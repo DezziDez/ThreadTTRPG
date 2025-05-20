@@ -1,14 +1,14 @@
 ---
-#publish-me
+share: true
 ---
 # */ kræft /*
 **Verb** ~ To make or produce with care, skill, or ingenuity
 # Whatcha Doin'?
-To Craft is to create [[Object|Objects]] from Materials using time and skill. All [[TTRPG#Characters|Characters]] can Craft using [[Check|Checks]] and a bit of elbow grease.
+To Craft is to create [Objects](./Object.md) from Materials using time and skill. All [Characters](../Introduction/TTRPG.md#Characters) can Craft using [Checks](./Check.md) and a bit of elbow grease.
 # Materials
-All Objects that are Crafted require Materials. These materials have their own [[Object#Properties|Properties]] that are added to the final Object.
+All Objects that are Crafted require Materials. These materials have their own [Properties](./Object.md#Properties) that are added to the final Object.
 
-To simulate the losses in the Crafting process, more Materials are needed than the finished Object will be made of. The amount of Materials needed is twice the final [[Size#Bulk|Bulk]] of the Object. Which is also one additional [[Size]] category.
+To simulate the losses in the Crafting process, more Materials are needed than the finished Object will be made of. The amount of Materials needed is twice the final [Bulk](./Size.md#Bulk) of the Object. Which is also one additional [Size](./Size.md) category.
 
 >[!Example]
 >A Character wishes to Craft a bow, which will have a Bulk of 2.

@@ -28,7 +28,7 @@ jobs:
         run: |
           pip install mkdocs \
             mkdocs-material \
-            mkdocs-awesome-pages-plugin \
+            mkdocs-awesome-nav \
             pymdown-extensions>=10.0 \
             mkdocs-publisher
             

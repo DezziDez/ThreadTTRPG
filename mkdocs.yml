@@ -76,9 +76,6 @@ markdown_extensions:
 plugins:
   - search
   - awesome-nav
-  - pub-obsidian:
-        backlinks:
-            enabled: false
   
 # Source directory (where your markdown files are)
 docs_dir: .site_content

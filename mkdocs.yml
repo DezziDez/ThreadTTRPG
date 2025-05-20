@@ -46,16 +46,13 @@ markdown_extensions:
       user: DezziDez
       repo: ThreadTTRPG
       normalize_issue_symbols: true
-  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.extra
   - pymdownx.details
-  - pymdownx.critic
   - pymdownx.caret
-  - pymdownx.keys
   - pymdownx.mark
   - pymdownx.blocks.admonition
   - pymdownx.emoji:

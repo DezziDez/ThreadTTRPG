@@ -30,6 +30,7 @@ jobs:
             mkdocs-material \
             mkdocs-awesome-pages-plugin \
             pymdown-extensions>=10.0 \
+            mdx-wikilink-plus \
             mkdocs-publisher
             
 

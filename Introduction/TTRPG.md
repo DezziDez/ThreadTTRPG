@@ -11,7 +11,7 @@ TTRPGs have many terms and ideas that are common place in the game genre.
 Players are the physical people in a TTRPG that play as the characters. These players make choices that make changes in the world or setting their characters occupy.
 # The Weaver
 The Weaver is the real person that makes the rulings of the game, tells the main story beats, and plays NPCs that the players can interact with as part of the setting.
-- ## Rulings
+## Rulings
 The Weaver is the main judge and decides what the players and characters can and cannot do. This includes anything from within the setting to the rules of Thread itself.
 # Characters
 Characters are the medium in which players use to interact with the story and setting. These characters are usually designed with their own stories and motivations to make them feel like people outside the players that control them.

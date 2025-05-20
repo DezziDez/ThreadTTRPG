@@ -1,10 +1,10 @@
 ---
-#publish-me
+share: true
 ---
 # */ ɪˈvɛnt /*
 ***Noun*** ~ Something that occurs in a certain place during a particular interval of time
 # What's Happening?
-Events are anything that requires time focused tracking of decisions and [[Action|Actions]] of [[TTRPG#Characters|Characters]]. Events can be started at any time by [[TTRPG#The Weaver|The Weaver]] or [[TTRPG#Players|The Players]] to move time in to Rounds and Turns.
+Events are anything that requires time focused tracking of decisions and [Actions](./Action.md) of [Characters](../Introduction/TTRPG.md#Characters). Events can be started at any time by [The Weaver](../Introduction/TTRPG.md#The%20Weaver) or [The Players](../Introduction/TTRPG.md#Players) to move time in to Rounds and Turns.
 >[!Example] Example Events
 >- Fights with monsters or people
 >- Timed challenges or puzzles
@@ -18,9 +18,9 @@ Turns are localized moments of time for each Character. Each turn has three Phas
 ## Phase 1: Start Turn
 - Effects that trigger at the beginning of the Character's Turn trigger in any order of the Character's choice.
 ## Phase 2: Middle Turn
-- The Character chooses to take any [[Action|Actions]] or make [[Check|Checks]].
+- The Character chooses to take any [Actions](./Action.md) or make [Checks](./Check.md).
 ## Phase 3: End Turn
-- [[Action#Quick Actions|Quick Actions]] cannot be used during this Phase.
+- [Quick Actions](./Action.md#Quick%20Actions) cannot be used during this Phase.
 - Effects that trigger at the end of the Character's Turn trigger in any order of The Weaver's choice.
 - Choose the another Character in the Round to Start their Turn.
 # Order
@@ -30,4 +30,4 @@ Characters choose which Character who has not had a Turn this Round goes next at
 
 Once all Characters in the Event have had a Turn. The last Character chooses any other Character to begin their Turn of the next Round.
 # Hiding
-Characters that are not known to others gain the [[Hidden]] [[State]] towards those Characters that are not aware of them.
+Characters that are not known to others gain the [Hidden](../States/Hidden.md) [State](./State.md) towards those Characters that are not aware of them.

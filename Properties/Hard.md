@@ -1,5 +1,5 @@
 ---
-#publish-me
+share: true
 ---
-This [[Object]] retains its shape extremely well, making it inflexible.
-This Objects Health is increased by 1 for each [[Size#Bulk|Bulk]] of the Object.
+This [Object](../Core/Object.md) retains its shape extremely well, making it inflexible.
+This Objects Health is increased by 1 for each [Bulk](../Core/Size.md#Bulk) of the Object.

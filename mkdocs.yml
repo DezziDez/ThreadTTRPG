@@ -40,7 +40,7 @@ nav:
   - ... 
  # The index.md file is the home page from the `docs` folder
  
- markdown_extensions:
+markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
       user: DezziDez

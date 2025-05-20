@@ -32,6 +32,20 @@ jobs:
             pymdown-extensions>=10.0 \
             markdown-full-yaml-metadata
 
+# Step 4: Filter files and copy to temporary directory
+      - name: Filter and Copy Public Notes
+        run: |
+          mkdir -p .site_content
+          # Define excluded folders that should never be published
+          EXCLUSION=("Journal" "TODO" "Feelings" "Private" "Templates")
+          
+          find . -type f -exec grep -l "share: true" {} \; | while IFS= read -r file; do
+              cp --parents "$file" .site_content/ || true
+          done
+          cp index.md .site_content/ || true
+          cp -r .overrides .site_content/
+          echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
+
       # Step 4: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages
         run: |

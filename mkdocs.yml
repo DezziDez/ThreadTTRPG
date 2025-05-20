@@ -35,9 +35,9 @@ theme:
   # Custom color settings
   custom_dir: .overrides
   
-nav:
+#nav:
  # this will generate the nav dynamically
-  - ... 
+ # - ... 
  # The index.md file is the home page from the `docs` folder
  
 markdown_extensions:
@@ -73,8 +73,9 @@ markdown_extensions:
 
 plugins:
   - search
-  - awesome-nav
+ # - awesome-nav
   - pub-obsidian
+  - pub-meta
   
 # Source directory (where your markdown files are)
 docs_dir: .site_content

@@ -30,7 +30,9 @@ jobs:
             mkdocs-material \
             mkdocs-awesome-pages-plugin \
             pymdown-extensions>=10.0 \
-            mkdocs-simple-hooks
+            mkdocs-callouts \
+            mkdocs-publisher
+            
 
       # Step 4: Filter files and copy to temporary directory
       - name: Filter and Copy Public Notes

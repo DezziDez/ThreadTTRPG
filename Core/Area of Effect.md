@@ -1,18 +1,18 @@
 ---
-#publish-me
+share: true
 ---
 # / ˈɛriə ʌv ɪˈfɛkt /
 ***Noun*** ~ An effect that affects everything within a specified range of the target place or character
 # Explosion!
-An Area of Effect (AOE) is a projected area that some effect is taking place that affects all [[TTRPG#Characters|Characters]] and [[Object|Objects]] within that area.
+An Area of Effect (AOE) is a projected area that some effect is taking place that affects all [Characters](../Introduction/TTRPG.md#Characters) and [Objects](./Object.md) within that area.
 # Origin
 AOE's have an Origin point unless stated otherwise. This point is where the AOE begins, spreading outwards from the Origin to its range.
 # Area
 The Area of an AOE is either a Radius or a Line.
 ## Radius
-An AOE's Radius is defined as a number of [[Tile#Spaces|Spaces]] from the Origin.
+An AOE's Radius is defined as a number of [Spaces](./Tile.md#Spaces) from the Origin.
 ## Line
-An AOE as a Line is defined as having a distance of number of Spaces from the Origin with the addition of a number of [[Tile|Tiles]] as a width and a direction.
+An AOE as a Line is defined as having a distance of number of Spaces from the Origin with the addition of a number of [Tiles](./Tile.md) as a width and a direction.
 # Controlling
 AOE's can either be Controlled or Uncontrolled. This determines that amount of control a Character has over what is affected by the AOE.
 ## Controlled

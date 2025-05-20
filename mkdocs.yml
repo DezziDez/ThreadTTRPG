@@ -67,6 +67,8 @@ markdown_extensions:
   - pymdownx.mark
   - tables
   - footnotes
+  - nl2br
+  - callouts
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -75,8 +77,11 @@ plugins:
   - search
   - awesome-pages
   - tags:
-        tags: false
+        export_only: true
   - pub-obsidian
+    obsidian_dir: .obsidian
+    backlinks:
+        enabled: false
   - callouts
 # Source directory (where your markdown files are)
 docs_dir: .site_content

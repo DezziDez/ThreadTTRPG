@@ -10,7 +10,7 @@ A Character's Maximum Health value is calculated by adding the [Points](./Point.
 >[!Example]
 >If a Character has 3 Points in Body and 4 Points in Luck. Then the Character has a maximum Health of 7. (3+4 = 7)
 # The Edge
-Whenever a Character reaches 0 or less remaining Health. They gain the Over the Edge [State](./State.md).
+Whenever a Character reaches 0 or less remaining Health. They gain the [Over the Edge](../States/Over%20the%20Edge.md) [State](./State.md).
 ## Death
 Whenever a Character has an amount of negative Health greater than the Character's Maximum Health, that Character Dies.
 # Healing

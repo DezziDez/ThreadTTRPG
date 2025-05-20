@@ -30,6 +30,7 @@ jobs:
             mkdocs-material \
             mkdocs-awesome-nav \
             pymdown-extensions>=10.0 \
+            mkdocs-publisher \
             markdown-full-yaml-metadata
 
       # Step 4: Filter files and copy to temporary directory

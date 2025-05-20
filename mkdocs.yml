@@ -79,7 +79,6 @@ plugins:
   - tags:
         export_only: true
   - pub-obsidian
-    obsidian_dir: .obsidian
     backlinks:
         enabled: false
   - callouts

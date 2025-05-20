@@ -73,7 +73,7 @@ plugins:
   - awesome-nav
   - pub-obsidian:
       backlinks:
-        enabled: false
+        enabled: true
       links:
         wikilinks_enabled: false
   

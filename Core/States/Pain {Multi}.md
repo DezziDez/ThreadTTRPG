@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ peɪn /*
 ***Noun*** ~ Mental or physical suffering or distress, as due to injury, illness, etc
 

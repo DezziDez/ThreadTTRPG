@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ ˈæʤəl /*
 ***Adjective*** ~ Quick and well-coordinated in movement
 

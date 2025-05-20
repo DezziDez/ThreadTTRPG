@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ riˈstreɪnd /*
 ***Adjective*** ~ Prevented or limited from doing or having effect
 

@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ ˈsɛnsləs /*
 ***Adjective*** ~ Destitute or deprived of sensation
 

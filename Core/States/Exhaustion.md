@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ɪɡˈzɑsʧən/*
 ***Noun*** ~ To have extreme weakness or fatigue; lacking strength or energy
 

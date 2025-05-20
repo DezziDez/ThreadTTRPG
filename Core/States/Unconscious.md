@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ ʌnˈkɒn ʃəs /*
 ***Adjective*** ~ Not conscious; without awareness, sensation, or cognition
 

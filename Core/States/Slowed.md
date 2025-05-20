@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ sloʊd /*
 ***Adjective*** ~ having some quality that reduces speed, movement, progress, or work
 

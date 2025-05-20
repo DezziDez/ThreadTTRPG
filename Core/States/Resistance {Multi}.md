@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ rɪˈzɪstəns /*
 ***Noun*** ~ The act or power of resisting, opposing, or withstanding
 

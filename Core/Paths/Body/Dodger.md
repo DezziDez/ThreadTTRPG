@@ -1,3 +1,6 @@
+---
+#publish-me
+---
 # */ ˈdɑʤər /*
 ***Noun*** ~ A person who performs a quick, evasive movement, as a sudden jump away to avoid a blow
 

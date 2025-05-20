@@ -30,8 +30,7 @@ jobs:
             mkdocs-material \
             mkdocs-awesome-pages-plugin \
             pymdown-extensions>=10.0 \
-            mkdocs-callouts \
-            mdx-wikilink-plus
+            mkdocs-publisher
             
 
       # Step 4: Filter files and copy to temporary directory

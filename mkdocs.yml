@@ -2,7 +2,7 @@
 # Great place to start to see if this is working / what you need to fix
 # or customzie
 
-site_name: ThreadTheTTRPG
+site_name: 'Thread The TTRPG'
 theme:
   name: material
   features:
@@ -78,7 +78,7 @@ plugins:
   - backlinks_section
   - pub-obsidian:
         backlinks:
-            enabled: true
+            enabled: false
   
 # Source directory (where your markdown files are)
 docs_dir: .site_content

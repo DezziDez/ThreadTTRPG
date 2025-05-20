@@ -1,7 +1,7 @@
 ---
-#publish-me
+share: true
 ---
 # */ɪɡˈzɑsʧən/*
 ***Noun*** ~ To have extreme weakness or fatigue; lacking strength or energy
 
-- All [[Action|Actions]] have their [[Action#The Cost|Cost]] increased by 1 for each [[State#Stacking|Stack]] of this [[State]].
+- All [Actions](../Core/Action.md) have their [Cost](../Core/Action.md#The%20Cost) increased by 1 for each [Stack](../Core/State.md#Stacking) of this [State](../Core/State.md).

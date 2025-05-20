@@ -1,4 +1,4 @@
 ---
-#publish-me
+share: true
 ---
-This [[Object]] can have its shape easily changed with minimal force.
+This [Object](../Core/Object.md) can have its shape easily changed with minimal force.

@@ -1,10 +1,10 @@
 ---
-#publish-me
+share: true
 ---
 # */ˌdɪs pəˈzɪʃ ən /*
 ***Noun*** ~ A person's inherent qualities of mind and character
 # How Does That Make You Feel?
-[[TTRPG#Characters|Characters]] in Thread can have a Disposition towards anything for any reason, and they can be created, caused, or changed at any time. These Dispositions can be temporary or permanent depending on the source and reason. They can even be used to represent a Character's entire personality and backstory.
+[Characters](../Introduction/TTRPG.md#Characters) in Thread can have a Disposition towards anything for any reason, and they can be created, caused, or changed at any time. These Dispositions can be temporary or permanent depending on the source and reason. They can even be used to represent a Character's entire personality and backstory.
 
 All Dispositions consist of three parts; What, How, and Why.
 ## Target

@@ -1,5 +1,5 @@
 ---
-#publish-me
+share: true
 ---
 # *Titterpig*
 *A Tabletop Role Playing Game/System (TTRPG)*
@@ -24,4 +24,4 @@ The setting is the rules, history, NPCs, and ideas that make up a world that the
 # Story
 The story that takes place inside a TTRPG is ever evolving with unexpected twists and turns due to the choices made by the players and guided by the Weaver.
 # Objects
-[[Object|Objects]] are anything that isn't a Character. These are things, items, structures, or anything else that might change in the world that can't make its own choices.
+[Objects](../Core/Object.md) are anything that isn't a Character. These are things, items, structures, or anything else that might change in the world that can't make its own choices.

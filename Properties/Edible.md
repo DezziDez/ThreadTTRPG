@@ -1,4 +1,4 @@
 ---
-#publish-me
+share: true
 ---
-This [[Object]] is considered to be equivalent to one [[Life#Fuel|Fuel]] for each [[Size#Bulk|Bulk]] of the Object.
+This [Object](../Core/Object.md) is considered to be equivalent to one [Fuel](../Core/Life.md#Fuel) for each [Bulk](../Core/Size.md#Bulk) of the Object.

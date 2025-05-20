@@ -1,5 +1,5 @@
 ---
-#publish-me
+share: true
 ---
 # */ θrɛd /* 
 ***Verb** ~ To put together or interweave*

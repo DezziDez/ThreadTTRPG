@@ -1,5 +1,5 @@
 ---
-#publish-me
+share: true
 ---
 # */ fɪˈlɒs ə fi /*
 ***Noun*** ~ A system of principles for guidance or a particular system of thought

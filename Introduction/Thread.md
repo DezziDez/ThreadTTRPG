@@ -1,4 +1,6 @@
-# Thread
+---
+#publish-me
+---
 # */ θrɛd /* 
 ***Verb** ~ To put together or interweave*
 # What Is Thread?

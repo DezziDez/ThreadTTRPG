@@ -77,8 +77,8 @@ plugins:
   - awesome-nav
   - backlinks_section
   - pub-obsidian:
-    backlinks:
-        enabled: false
+        backlinks:
+            enabled: true
   
 # Source directory (where your markdown files are)
 docs_dir: .site_content

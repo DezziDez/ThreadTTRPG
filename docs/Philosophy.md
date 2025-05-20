@@ -4,7 +4,7 @@
 # */ fɪˈlɒs ə fi /*
 ***Noun*** ~ A system of principles for guidance or a particular system of thought
 # Why?
-The idea of [[Thread]] was born of frustration. A system was desired that gives all the tools necessary to create any world or concept without restrictions while being as simple as possible for anyone to understand. So, Thread was created. The intention is for Thread to be a working system, tool box, and toy box with everything needed inside all in one.
+The idea of Thread was born of frustration. A system was desired that gives all the tools necessary to create any world or concept without restrictions while being as simple as possible for anyone to understand. So, Thread was created. The intention is for Thread to be a working system, tool box, and toy box with everything needed inside all in one.
 # Constraints
 ## Complexity Maximum
 1. Calculations should never be anything other than addition or subtraction. Highest complexity being doubling which is X + X.

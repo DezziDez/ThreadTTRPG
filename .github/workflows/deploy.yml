@@ -32,7 +32,7 @@ jobs:
             pymdown-extensions>=10.0 \
             markdown-full-yaml-metadata
 
-# Step 4: Filter files and copy to temporary directory
+      # Step 4: Filter files and copy to temporary directory
       - name: Filter and Copy Public Notes
         run: |
           mkdir -p .site_content
@@ -46,7 +46,7 @@ jobs:
           cp -r .overrides .site_content/
           echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
 
-      # Step 4: Build and Deploy MkDocs Site
+      # Step 5: Build and Deploy MkDocs Site
       - name: Deploy MkDocs to GitHub Pages
         run: |
           mkdocs gh-deploy --force --config-file mkdocs.yml

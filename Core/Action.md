@@ -6,7 +6,7 @@ share: true
 # You Have The Power
 Actions are used whenever a [Character](../Introduction/TTRPG.md#Characters) wants to do anything significant or energy consuming. 
 # The Cost
-Using an Action always causes the Character to [Discard](./Deck.md#Discard) one Card and lose an amount of Stamina noted in the Action. 
+Using an Action always causes the Character to [Discard](./Deck.md#Discard) one Card and expend an amount of Stamina noted in the Action. 
 An Action cannot cost less than one [Stamina](./Stamina.md) or Card unless **explicitly** noted otherwise.
 # Continuous Cost
 Some Actions may be Continuous. These actions have some constant use with the cost of an amount of Stamina at the [Start](./Event.md#Turns) of the Character's Turn.
